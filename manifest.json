@@ -1,0 +1,23 @@
+{
+    "appId": "cm79m8nts0001b9umqukf3lrj",
+    "appType": "platform-app",
+    "name": "metadata-agent",
+    "metadata": {
+        "version": 2
+    },
+    "permissions": {
+        "scopes": ["basic:read", "basic:write"]
+    },
+    "surfaces": {
+        "mediaLibrary": {
+            "assetAction": {
+                "title": "Asset Action",
+                "type": ["image"],
+                "filenameExtension": ["png", "jpeg"]
+            },
+            "assetCreation": {
+                "title": "Asset Creation"
+            }
+        }
+    }
+}

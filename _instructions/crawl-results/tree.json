@@ -1,0 +1,4720 @@
+{
+  "title": "Documentation",
+  "type": "root",
+  "children": [
+    {
+      "id": 316,
+      "title": "Introduction",
+      "type": "group",
+      "sort": 1,
+      "children": [
+        {
+          "id": 2617,
+          "title": "Getting started",
+          "type": "internal",
+          "slug": "getting-started",
+          "url": "/document/2617",
+          "sort": 1,
+          "children": [
+            {
+              "id": 23178,
+              "title": "Welcome",
+              "type": "page",
+              "slug": "welcome",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "parentId": null,
+              "isPublished": true,
+              "children": []
+            },
+            {
+              "id": 23180,
+              "title": "Help and questions",
+              "type": "page",
+              "slug": "help-and-questions",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "parentId": null,
+              "isPublished": true,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "title": "Brand SDK",
+      "type": "group",
+      "sort": 2,
+      "children": [
+        {
+          "id": 2582,
+          "title": "Brand SDK",
+          "type": "internal",
+          "slug": "brand-sdk",
+          "url": "/document/2582",
+          "sort": 1,
+          "children": [
+            {
+              "id": 4989,
+              "title": "Getting started",
+              "type": "page_category",
+              "slug": "getting-started",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 23257,
+                  "title": "Introduction",
+                  "type": "page",
+                  "slug": "introduction",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 51018,
+                      "title": "What is the Brand SDK?",
+                      "type": "page_heading",
+                      "slug": "what-is-the-brand-sdk",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 53,
+                      "parentId": 23257,
+                      "children": []
+                    },
+                    {
+                      "id": 51019,
+                      "title": "What you can build",
+                      "type": "page_heading",
+                      "slug": "what-you-can-build",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 54,
+                      "parentId": 23257,
+                      "children": []
+                    },
+                    {
+                      "id": 51020,
+                      "title": "What's included?",
+                      "type": "page_heading",
+                      "slug": "what-s-included",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 55,
+                      "parentId": 23257,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23014,
+                  "title": "Prerequisites",
+                  "type": "page",
+                  "slug": "prerequisites",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 51048,
+                      "title": "Introduction",
+                      "type": "page_heading",
+                      "slug": "introduction",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 35,
+                      "parentId": 23014,
+                      "children": []
+                    },
+                    {
+                      "id": 51049,
+                      "title": "Node.js",
+                      "type": "page_heading",
+                      "slug": "node-js",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 36,
+                      "parentId": 23014,
+                      "children": []
+                    },
+                    {
+                      "id": 51050,
+                      "title": "Frontify CLI",
+                      "type": "page_heading",
+                      "slug": "frontify-cli",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 37,
+                      "parentId": 23014,
+                      "children": []
+                    },
+                    {
+                      "id": 51051,
+                      "title": "React Developer Tools",
+                      "type": "page_heading",
+                      "slug": "react-developer-tools",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 38,
+                      "parentId": 23014,
+                      "children": []
+                    },
+                    {
+                      "id": 51068,
+                      "title": "Frontify account",
+                      "type": "page_heading",
+                      "slug": "frontify-account",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 39,
+                      "parentId": 23014,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23015,
+                  "title": "For creatives",
+                  "type": "page",
+                  "slug": "for-creatives",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50456,
+                      "title": "Figma Design Kit",
+                      "type": "page_heading",
+                      "slug": "figma-design-kit",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 40,
+                      "parentId": 23015,
+                      "children": []
+                    },
+                    {
+                      "id": 51052,
+                      "title": "Videos",
+                      "type": "page_heading",
+                      "slug": "videos",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 41,
+                      "parentId": 23015,
+                      "children": []
+                    },
+                    {
+                      "id": 50457,
+                      "title": "Storybook components",
+                      "type": "page_heading",
+                      "slug": "storybook-components",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 42,
+                      "parentId": 23015,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22894,
+                  "title": "Glossary",
+                  "type": "page",
+                  "slug": "glossary",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 5,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 23016,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 6,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50463,
+                      "title": "Brand SDK Releases",
+                      "type": "page_heading",
+                      "slug": "brand-sdk-releases",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 43,
+                      "parentId": 23016,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22893,
+                  "title": "Terms of use",
+                  "type": "page",
+                  "slug": "terms-of-use",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 7,
+                  "parentId": 4989,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50166,
+                      "title": "Definitions",
+                      "type": "page_heading",
+                      "slug": "definitions",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50167,
+                      "title": "1. Brand SDK",
+                      "type": "page_heading",
+                      "slug": "1-brand-sdk",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50168,
+                      "title": "2. Content Blocks",
+                      "type": "page_heading",
+                      "slug": "2-content-blocks",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50169,
+                      "title": "3. Feedback",
+                      "type": "page_heading",
+                      "slug": "3-feedback",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50170,
+                      "title": "4. Warranty disclaimers",
+                      "type": "page_heading",
+                      "slug": "4-warranty-disclaimers",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50171,
+                      "title": "5. Limitation of liability",
+                      "type": "page_heading",
+                      "slug": "5-limitation-of-liability",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50172,
+                      "title": "6. Developer’s warranties",
+                      "type": "page_heading",
+                      "slug": "6-developer-s-warranties",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50173,
+                      "title": "7. Indemnification",
+                      "type": "page_heading",
+                      "slug": "7-indemnification",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50174,
+                      "title": "8. Term and termination",
+                      "type": "page_heading",
+                      "slug": "8-term-and-termination",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50175,
+                      "title": "9. Confidentiality",
+                      "type": "page_heading",
+                      "slug": "9-confidentiality",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22893,
+                      "children": []
+                    },
+                    {
+                      "id": 50176,
+                      "title": "10. Final Provisions",
+                      "type": "page_heading",
+                      "slug": "10-final-provisions",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22893,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4988,
+              "title": "Details & concepts",
+              "type": "page_category",
+              "slug": "details-concepts",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 23018,
+                  "title": "Architecture",
+                  "type": "page",
+                  "slug": "architecture",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4988,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50465,
+                      "title": "Why React components?",
+                      "type": "page_heading",
+                      "slug": "why-react-components",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 44,
+                      "parentId": 23018,
+                      "children": []
+                    },
+                    {
+                      "id": 50466,
+                      "title": "The App-Bridge",
+                      "type": "page_heading",
+                      "slug": "the-app-bridge",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 45,
+                      "parentId": 23018,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23019,
+                  "title": "Frontify CLI",
+                  "type": "page",
+                  "slug": "frontify-cli",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4988,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50467,
+                      "title": "Prerequisites",
+                      "type": "page_heading",
+                      "slug": "prerequisites",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 46,
+                      "parentId": 23019,
+                      "children": []
+                    },
+                    {
+                      "id": 50470,
+                      "title": "Authentification",
+                      "type": "page_heading",
+                      "slug": "authentification",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 47,
+                      "parentId": 23019,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4990,
+              "title": "Marketplace",
+              "type": "page_category",
+              "slug": "marketplace",
+              "heading": "",
+              "subheading": "",
+              "sort": 4,
+              "children": [
+                {
+                  "id": 22904,
+                  "title": "Overview",
+                  "type": "page",
+                  "slug": "overview",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 1,
+                  "parentId": 4990,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50220,
+                      "title": "What is the Frontify Marketplace",
+                      "type": "page_heading",
+                      "slug": "what-is-the-frontify-marketplace",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22904,
+                      "children": []
+                    },
+                    {
+                      "id": 50221,
+                      "title": "Releasing a Content Block",
+                      "type": "page_heading",
+                      "slug": "releasing-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22904,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22907,
+                  "title": "Create and deploy",
+                  "type": "page",
+                  "slug": "create-and-deploy",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 2,
+                  "parentId": 4990,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50231,
+                      "title": "Prerequisites",
+                      "type": "page_heading",
+                      "slug": "prerequisites",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 23,
+                      "parentId": 22907,
+                      "children": []
+                    },
+                    {
+                      "id": 50232,
+                      "title": "Create a Content Block",
+                      "type": "page_heading",
+                      "slug": "create-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 24,
+                      "parentId": 22907,
+                      "children": []
+                    },
+                    {
+                      "id": 50233,
+                      "title": "Deploy your Content Block to the Marketplace",
+                      "type": "page_heading",
+                      "slug": "deploy-your-content-block-to-the-marketplace",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 25,
+                      "parentId": 22907,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22905,
+                  "title": "Listing on the Marketplace",
+                  "type": "page",
+                  "slug": "listing-on-the-marketplace",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 3,
+                  "parentId": 4990,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50222,
+                      "title": "Who to involve",
+                      "type": "page_heading",
+                      "slug": "who-to-involve",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22905,
+                      "children": []
+                    },
+                    {
+                      "id": 50223,
+                      "title": "Required content elements",
+                      "type": "page_heading",
+                      "slug": "required-content-elements",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 22905,
+                      "children": []
+                    },
+                    {
+                      "id": 50224,
+                      "title": "Writing a Content Block description",
+                      "type": "page_heading",
+                      "slug": "writing-a-content-block-description",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 22905,
+                      "children": []
+                    },
+                    {
+                      "id": 50225,
+                      "title": "Adding Release Notes",
+                      "type": "page_heading",
+                      "slug": "adding-release-notes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 22905,
+                      "children": []
+                    },
+                    {
+                      "id": 50226,
+                      "title": "Publish your Content Block",
+                      "type": "page_heading",
+                      "slug": "publish-your-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 18,
+                      "parentId": 22905,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22906,
+                  "title": "Update and maintain",
+                  "type": "page",
+                  "slug": "update-and-maintain",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 4,
+                  "parentId": 4990,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50227,
+                      "title": "Update a Content Block",
+                      "type": "page_heading",
+                      "slug": "update-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 19,
+                      "parentId": 22906,
+                      "children": []
+                    },
+                    {
+                      "id": 50228,
+                      "title": "Installing a Content Block",
+                      "type": "page_heading",
+                      "slug": "installing-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 20,
+                      "parentId": 22906,
+                      "children": []
+                    },
+                    {
+                      "id": 50229,
+                      "title": "Updating/Reverting a Content Block",
+                      "type": "page_heading",
+                      "slug": "updating-reverting-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 21,
+                      "parentId": 22906,
+                      "children": []
+                    },
+                    {
+                      "id": 50230,
+                      "title": "Uninstalling a Content Block",
+                      "type": "page_heading",
+                      "slug": "uninstalling-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 22,
+                      "parentId": 22906,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22909,
+                  "title": "Marketplace Terms",
+                  "type": "page",
+                  "slug": "marketplace-terms",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 6,
+                  "parentId": 4990,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50234,
+                      "title": "1. The Marketplace",
+                      "type": "page_heading",
+                      "slug": "1-the-marketplace",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 26,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50235,
+                      "title": "2. Your use of the Apps",
+                      "type": "page_heading",
+                      "slug": "2-your-use-of-the-apps",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 27,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50236,
+                      "title": "3. Data processing",
+                      "type": "page_heading",
+                      "slug": "3-data-processing",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 28,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50237,
+                      "title": "4. Your Responsibilities",
+                      "type": "page_heading",
+                      "slug": "4-your-responsibilities",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 29,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50238,
+                      "title": "5. Term and Termination",
+                      "type": "page_heading",
+                      "slug": "5-term-and-termination",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 30,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50239,
+                      "title": "6. Disclaimers and limitation of liability",
+                      "type": "page_heading",
+                      "slug": "6-disclaimers-and-limitation-of-liability",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 31,
+                      "parentId": 22909,
+                      "children": []
+                    },
+                    {
+                      "id": 50240,
+                      "title": "7. Final Provisions",
+                      "type": "page_heading",
+                      "slug": "7-final-provisions",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 32,
+                      "parentId": 22909,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2569,
+          "title": "Content blocks",
+          "type": "internal",
+          "slug": "content-blocks",
+          "url": "/document/2569",
+          "sort": 2,
+          "children": [
+            {
+              "id": 4958,
+              "title": "Getting started",
+              "type": "page_category",
+              "slug": "getting-started-1",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22891,
+                  "title": "Introduction",
+                  "type": "page",
+                  "slug": "introduction",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 1,
+                  "parentId": 4958,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50164,
+                      "title": "Engineers",
+                      "type": "page_heading",
+                      "slug": "engineers",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22891,
+                      "children": []
+                    },
+                    {
+                      "id": 50165,
+                      "title": "Designers",
+                      "type": "page_heading",
+                      "slug": "designers",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22891,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22892,
+                  "title": "Prerequisites",
+                  "type": "page",
+                  "slug": "prerequisites",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 3,
+                  "parentId": 4958,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22890,
+                  "title": "Quick start",
+                  "type": "page",
+                  "slug": "quick-start-1",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 5,
+                  "parentId": 4958,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50162,
+                      "title": "Getting started with the Brand SDK",
+                      "type": "page_heading",
+                      "slug": "getting-started-with-the-brand-sdk",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22890,
+                      "children": []
+                    },
+                    {
+                      "id": 50163,
+                      "title": "What’s next?",
+                      "type": "page_heading",
+                      "slug": "what-s-next",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22890,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22889,
+                  "title": "For creatives",
+                  "type": "page",
+                  "slug": "for-creatives-1",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 6,
+                  "parentId": 4958,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50156,
+                      "title": "The Content Block",
+                      "type": "page_heading",
+                      "slug": "the-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22889,
+                      "children": []
+                    },
+                    {
+                      "id": 50157,
+                      "title": "The sidebar",
+                      "type": "page_heading",
+                      "slug": "the-sidebar-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22889,
+                      "children": []
+                    },
+                    {
+                      "id": 50158,
+                      "title": "Core principles",
+                      "type": "page_heading",
+                      "slug": "core-principles-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22889,
+                      "children": []
+                    },
+                    {
+                      "id": 50159,
+                      "title": "Figma Design Kit",
+                      "type": "page_heading",
+                      "slug": "figma-design-kit",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22889,
+                      "children": []
+                    },
+                    {
+                      "id": 50160,
+                      "title": "Storybook components",
+                      "type": "page_heading",
+                      "slug": "storybook-components",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22889,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22887,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 10,
+                  "parentId": 4958,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50154,
+                      "title": "Brand SDK Releases",
+                      "type": "page_heading",
+                      "slug": "brand-sdk-releases",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22887,
+                      "children": []
+                    },
+                    {
+                      "id": 50155,
+                      "title": "Block Releases",
+                      "type": "page_heading",
+                      "slug": "block-releases",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22887,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4959,
+              "title": "Details & concepts",
+              "type": "page_category",
+              "slug": "details-concepts-1",
+              "heading": "",
+              "subheading": "",
+              "sort": 3,
+              "children": [
+                {
+                  "id": 22900,
+                  "title": "Architecture",
+                  "type": "page",
+                  "slug": "architecture",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 1,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50204,
+                      "title": "Why React components?",
+                      "type": "page_heading",
+                      "slug": "why-react-components",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 39,
+                      "parentId": 22900,
+                      "children": []
+                    },
+                    {
+                      "id": 50205,
+                      "title": "The App-Bridge",
+                      "type": "page_heading",
+                      "slug": "the-app-bridge",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 40,
+                      "parentId": 22900,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22896,
+                  "title": "Frontify CLI",
+                  "type": "page",
+                  "slug": "frontify-cli",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 3,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50183,
+                      "title": "Prerequisites",
+                      "type": "page_heading",
+                      "slug": "prerequisites",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 18,
+                      "parentId": 22896,
+                      "children": []
+                    },
+                    {
+                      "id": 50184,
+                      "title": "Creating a new Content Block",
+                      "type": "page_heading",
+                      "slug": "creating-a-new-content-block-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 19,
+                      "parentId": 22896,
+                      "children": []
+                    },
+                    {
+                      "id": 50185,
+                      "title": "Serving a Content Block",
+                      "type": "page_heading",
+                      "slug": "serving-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 20,
+                      "parentId": 22896,
+                      "children": []
+                    },
+                    {
+                      "id": 50186,
+                      "title": "Authentification",
+                      "type": "page_heading",
+                      "slug": "authentification",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 21,
+                      "parentId": 22896,
+                      "children": []
+                    },
+                    {
+                      "id": 50187,
+                      "title": "Deployment of a content block",
+                      "type": "page_heading",
+                      "slug": "deployment-of-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 22,
+                      "parentId": 22896,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22895,
+                  "title": "Content Blocks",
+                  "type": "page",
+                  "slug": "content-blocks",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 5,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50177,
+                      "title": "Content Blocks Structure",
+                      "type": "page_heading",
+                      "slug": "content-blocks-structure",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22895,
+                      "children": []
+                    },
+                    {
+                      "id": 50178,
+                      "title": "A Basic Content Block",
+                      "type": "page_heading",
+                      "slug": "a-basic-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22895,
+                      "children": []
+                    },
+                    {
+                      "id": 50179,
+                      "title": "Getting Started With a New Content Block",
+                      "type": "page_heading",
+                      "slug": "getting-started-with-a-new-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22895,
+                      "children": []
+                    },
+                    {
+                      "id": 50180,
+                      "title": "Adding a Content Block to Frontify",
+                      "type": "page_heading",
+                      "slug": "adding-a-content-block-to-frontify",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 22895,
+                      "children": []
+                    },
+                    {
+                      "id": 50181,
+                      "title": "Introducing the App Bridge",
+                      "type": "page_heading",
+                      "slug": "introducing-the-app-bridge",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 22895,
+                      "children": []
+                    },
+                    {
+                      "id": 50182,
+                      "title": "Deployment of a Content Block",
+                      "type": "page_heading",
+                      "slug": "deployment-of-a-content-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 22895,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22897,
+                  "title": "Block settings",
+                  "type": "page",
+                  "slug": "block-settings-1",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 6,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50188,
+                      "title": "Introducing Block Settings",
+                      "type": "page_heading",
+                      "slug": "introducing-block-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 23,
+                      "parentId": 22897,
+                      "children": []
+                    },
+                    {
+                      "id": 50189,
+                      "title": "Settings anatomy",
+                      "type": "page_heading",
+                      "slug": "settings-anatomy",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 24,
+                      "parentId": 22897,
+                      "children": []
+                    },
+                    {
+                      "id": 50190,
+                      "title": "The Settings Type Object",
+                      "type": "page_heading",
+                      "slug": "the-settings-type-object",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 25,
+                      "parentId": 22897,
+                      "children": []
+                    },
+                    {
+                      "id": 50191,
+                      "title": "Settings Block Types",
+                      "type": "page_heading",
+                      "slug": "settings-block-types",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 26,
+                      "parentId": 22897,
+                      "children": []
+                    },
+                    {
+                      "id": 50192,
+                      "title": "Store Arbitrary Data within your Block",
+                      "type": "page_heading",
+                      "slug": "store-arbitrary-data-within-your-block",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 27,
+                      "parentId": 22897,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22901,
+                  "title": "Setting types",
+                  "type": "page",
+                  "slug": "setting-types",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 7,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50206,
+                      "title": "Shared properties",
+                      "type": "page_heading",
+                      "slug": "shared-properties",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 41,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50207,
+                      "title": "Asset input",
+                      "type": "page_heading",
+                      "slug": "asset-input",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 42,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50208,
+                      "title": "Checklist",
+                      "type": "page_heading",
+                      "slug": "checklist",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 43,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50209,
+                      "title": "Color input",
+                      "type": "page_heading",
+                      "slug": "color-input",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 44,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50210,
+                      "title": "Select field",
+                      "type": "page_heading",
+                      "slug": "select-field",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 45,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50211,
+                      "title": "Input",
+                      "type": "page_heading",
+                      "slug": "input",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 46,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50212,
+                      "title": "Linkchooser",
+                      "type": "page_heading",
+                      "slug": "linkchooser",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 47,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50213,
+                      "title": "Multi input",
+                      "type": "page_heading",
+                      "slug": "multi-input",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 48,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50214,
+                      "title": "Notification",
+                      "type": "page_heading",
+                      "slug": "notification",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 49,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50215,
+                      "title": "Section heading",
+                      "type": "page_heading",
+                      "slug": "section-heading",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 50,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50216,
+                      "title": "Segmented control",
+                      "type": "page_heading",
+                      "slug": "segmented-control",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 51,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50217,
+                      "title": "Switch",
+                      "type": "page_heading",
+                      "slug": "switch",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 52,
+                      "parentId": 22901,
+                      "children": []
+                    },
+                    {
+                      "id": 50218,
+                      "title": "Textarea",
+                      "type": "page_heading",
+                      "slug": "textarea",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 53,
+                      "parentId": 22901,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22898,
+                  "title": "Settings patterns",
+                  "type": "page",
+                  "slug": "settings-patterns-1",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 8,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50193,
+                      "title": "Alignment settings",
+                      "type": "page_heading",
+                      "slug": "alignment-settings-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 28,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50194,
+                      "title": "Border settings",
+                      "type": "page_heading",
+                      "slug": "border-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 29,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50195,
+                      "title": "Color settings (conditional)",
+                      "type": "page_heading",
+                      "slug": "color-settings-conditional",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 30,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50196,
+                      "title": "Multi-input settings",
+                      "type": "page_heading",
+                      "slug": "multi-input-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 31,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50197,
+                      "title": "Corner radius settings",
+                      "type": "page_heading",
+                      "slug": "corner-radius-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 32,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50198,
+                      "title": "Height settings",
+                      "type": "page_heading",
+                      "slug": "height-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 33,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50199,
+                      "title": "Width settings",
+                      "type": "page_heading",
+                      "slug": "width-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 34,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50200,
+                      "title": "Padding settings",
+                      "type": "page_heading",
+                      "slug": "padding-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 35,
+                      "parentId": 22898,
+                      "children": []
+                    },
+                    {
+                      "id": 50201,
+                      "title": "Positioning settings",
+                      "type": "page_heading",
+                      "slug": "positioning-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 36,
+                      "parentId": 22898,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 24058,
+                  "title": "Other patterns",
+                  "type": "page",
+                  "slug": "other-patterns",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 9,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 53385,
+                      "title": "Block inject element",
+                      "type": "page_heading",
+                      "slug": "block-inject-element-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 93,
+                      "parentId": 24058,
+                      "children": []
+                    },
+                    {
+                      "id": 53378,
+                      "title": "Block item toolbar",
+                      "type": "page_heading",
+                      "slug": "block-item-toolbar",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 94,
+                      "parentId": 24058,
+                      "children": []
+                    },
+                    {
+                      "id": 53386,
+                      "title": "Block item wrapper",
+                      "type": "page_heading",
+                      "slug": "block-item-wrapper",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 95,
+                      "parentId": 24058,
+                      "children": []
+                    },
+                    {
+                      "id": 53383,
+                      "title": "Attachment buttons",
+                      "type": "page_heading",
+                      "slug": "attachment-buttons",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 96,
+                      "parentId": 24058,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22899,
+                  "title": "Block lifecycle",
+                  "type": "page",
+                  "slug": "block-lifecycle",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 10,
+                  "parentId": 4959,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50202,
+                      "title": "On Block Creation",
+                      "type": "page_heading",
+                      "slug": "on-block-creation",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 37,
+                      "parentId": 22899,
+                      "children": []
+                    },
+                    {
+                      "id": 50203,
+                      "title": "On Block Deletion",
+                      "type": "page_heading",
+                      "slug": "on-block-deletion",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 38,
+                      "parentId": 22899,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4960,
+              "title": "Use Cases",
+              "type": "page_category",
+              "slug": "use-cases-1",
+              "heading": "",
+              "subheading": "",
+              "sort": 4,
+              "children": [
+                {
+                  "id": 22903,
+                  "title": "Building a Typeform block",
+                  "type": "page",
+                  "slug": "building-a-typeform-block-1",
+                  "heading": "Getting Started",
+                  "subheading": "Description",
+                  "sort": 1,
+                  "parentId": 4960,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2580,
+          "title": "Apps",
+          "type": "internal",
+          "slug": "apps",
+          "url": "/document/2580",
+          "sort": 5,
+          "children": [
+            {
+              "id": 4986,
+              "title": "Getting Started",
+              "type": "page_category",
+              "slug": "getting-started",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 23008,
+                  "title": "Quick start ",
+                  "type": "page",
+                  "slug": "quick-start",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4986,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50432,
+                      "title": "Prerequisites",
+                      "type": "page_heading",
+                      "slug": "prerequisites",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 23008,
+                      "children": []
+                    },
+                    {
+                      "id": 50433,
+                      "title": "Creating the app",
+                      "type": "page_heading",
+                      "slug": "creating-the-app",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 23008,
+                      "children": []
+                    },
+                    {
+                      "id": 50434,
+                      "title": "Running your app locally",
+                      "type": "page_heading",
+                      "slug": "running-your-app-locally",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 23008,
+                      "children": []
+                    },
+                    {
+                      "id": 50435,
+                      "title": "Connecting the \"Local Development App\"",
+                      "type": "page_heading",
+                      "slug": "connecting-the-local-development-app",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 23008,
+                      "children": []
+                    },
+                    {
+                      "id": 50436,
+                      "title": "What's next?",
+                      "type": "page_heading",
+                      "slug": "what-s-next",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 23008,
+                      "children": []
+                    },
+                    {
+                      "id": 50437,
+                      "title": "Code Examples",
+                      "type": "page_heading",
+                      "slug": "code-examples",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 23008,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23010,
+                  "title": "App development",
+                  "type": "page",
+                  "slug": "app-development-1",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4986,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50440,
+                      "title": "Concepts",
+                      "type": "page_heading",
+                      "slug": "concepts",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 23010,
+                      "children": []
+                    },
+                    {
+                      "id": 50441,
+                      "title": "Context",
+                      "type": "page_heading",
+                      "slug": "context",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 23010,
+                      "children": []
+                    },
+                    {
+                      "id": 50442,
+                      "title": "App settings",
+                      "type": "page_heading",
+                      "slug": "app-settings",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 18,
+                      "parentId": 23010,
+                      "children": []
+                    },
+                    {
+                      "id": 50443,
+                      "title": "Secure Request",
+                      "type": "page_heading",
+                      "slug": "secure-request",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 19,
+                      "parentId": 23010,
+                      "children": []
+                    },
+                    {
+                      "id": 50444,
+                      "title": "App user state",
+                      "type": "page_heading",
+                      "slug": "app-user-state",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 20,
+                      "parentId": 23010,
+                      "children": []
+                    },
+                    {
+                      "id": 51206,
+                      "title": "Scopes",
+                      "type": "page_heading",
+                      "slug": "scopes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 21,
+                      "parentId": 23010,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23009,
+                  "title": "Marketplace",
+                  "type": "page",
+                  "slug": "marketplace",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4986,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50438,
+                      "title": "Connecting the app to the marketplace",
+                      "type": "page_heading",
+                      "slug": "connecting-the-app-to-the-marketplace",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 23009,
+                      "children": []
+                    },
+                    {
+                      "id": 50439,
+                      "title": "Deploying, Publishing and Installing",
+                      "type": "page_heading",
+                      "slug": "deploying-publishing-and-installing",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 23009,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4985,
+              "title": "Reference",
+              "type": "page_category",
+              "slug": "reference",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 23005,
+                  "title": "AppBridge API Method",
+                  "type": "page",
+                  "slug": "appbridge-api-method",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4985,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50425,
+                      "title": "getAssetResourceInformation",
+                      "type": "page_heading",
+                      "slug": "getassetresourceinformation",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 23005,
+                      "children": []
+                    },
+                    {
+                      "id": 50426,
+                      "title": "getCurrentUser",
+                      "type": "page_heading",
+                      "slug": "getcurrentuser",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 23005,
+                      "children": []
+                    },
+                    {
+                      "id": 50427,
+                      "title": "GetAccountId",
+                      "type": "page_heading",
+                      "slug": "getaccountid",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 23005,
+                      "children": []
+                    },
+                    {
+                      "id": 50428,
+                      "title": "createAsset",
+                      "type": "page_heading",
+                      "slug": "createasset",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 23005,
+                      "children": []
+                    },
+                    {
+                      "id": 50429,
+                      "title": "getSecureRequest",
+                      "type": "page_heading",
+                      "slug": "getsecurerequest",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 23005,
+                      "children": []
+                    },
+                    {
+                      "id": 50430,
+                      "title": "executeGraphQl (alpha)",
+                      "type": "page_heading",
+                      "slug": "executegraphql-alpha",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 23005,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23006,
+                  "title": "Manifest",
+                  "type": "page",
+                  "slug": "manifest",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4985,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50431,
+                      "title": "Control Visibility",
+                      "type": "page_heading",
+                      "slug": "control-visibility",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 23006,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 23007,
+                  "title": "Glossary",
+                  "type": "page",
+                  "slug": "glossary",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4985,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 23004,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4985,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "title": "APIs",
+      "type": "group",
+      "sort": 3,
+      "children": [
+        {
+          "id": 2570,
+          "title": "GraphQL API",
+          "type": "internal",
+          "slug": "graphql-api",
+          "url": "/document/2570",
+          "sort": 1,
+          "children": [
+            {
+              "id": 4964,
+              "title": "Introduction",
+              "type": "page_category",
+              "slug": "introduction",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 22926,
+                  "title": "Getting Started",
+                  "type": "page",
+                  "slug": "getting-started",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4964,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50280,
+                      "title": "Run Queries programmatically",
+                      "type": "page_heading",
+                      "slug": "run-queries-programmatically",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22926,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22925,
+                  "title": "GraphQL API",
+                  "type": "page",
+                  "slug": "graphql-api",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4964,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22922,
+                  "title": "Glossary",
+                  "type": "page",
+                  "slug": "glossary",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4964,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50279,
+                      "title": "GraphQL Terminologies",
+                      "type": "page_heading",
+                      "slug": "graphql-terminologies",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22922,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4970,
+              "title": "Changes",
+              "type": "page_category",
+              "slug": "changes",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22950,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4970,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50330,
+                      "title": "Breaking Changes",
+                      "type": "page_heading",
+                      "slug": "breaking-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 53,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50331,
+                      "title": "Uncovered Changes",
+                      "type": "page_heading",
+                      "slug": "uncovered-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 54,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50332,
+                      "title": "🚨 01/07/2023 Deprecation of LibraryCollection.isPrivate  — Scheduled for removal on 01/01/2024",
+                      "type": "page_heading",
+                      "slug": "01-07-2023-deprecation-of-librarycollection-isprivate-scheduled-for-removal-on-01-01-2024",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 55,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50333,
+                      "title": "🚨 01/07/2023 Deprecation of MetadataFields — Scheduled for removal on 30/06/2025",
+                      "type": "page_heading",
+                      "slug": "01-07-2023-deprecation-of-metadatafields-scheduled-for-removal-on-30-06-2025",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 56,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50334,
+                      "title": "🚨 01/01/2023 Deprecation of SubFolder — Scheduled for removal on 01/07/2023",
+                      "type": "page_heading",
+                      "slug": "01-01-2023-deprecation-of-subfolder-scheduled-for-removal-on-01-07-2023",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 57,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50335,
+                      "title": "🚨 07/03/2022 Deprecation of Brand > Projects — Scheduled for removal on 01/01/2023",
+                      "type": "page_heading",
+                      "slug": "07-03-2022-deprecation-of-brand-projects-scheduled-for-removal-on-01-01-2023",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 58,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50336,
+                      "title": "🚨 30/06/2021 — Scheduled for 01/01/2022",
+                      "type": "page_heading",
+                      "slug": "30-06-2021-scheduled-for-01-01-2022-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 59,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50337,
+                      "title": "27/05/2021 — Released",
+                      "type": "page_heading",
+                      "slug": "27-05-2021-released",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 60,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50338,
+                      "title": "⭐️ 22/05/2021 — Released",
+                      "type": "page_heading",
+                      "slug": "22-05-2021-released",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 61,
+                      "parentId": 22950,
+                      "children": []
+                    },
+                    {
+                      "id": 50339,
+                      "title": "? 30/12/2020 — Released",
+                      "type": "page_heading",
+                      "slug": "30-12-2020-released",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 62,
+                      "parentId": 22950,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22951,
+                  "title": "Migrating MetadataFields",
+                  "type": "page",
+                  "slug": "migrating-metadatafields",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4970,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50340,
+                      "title": "From Metadata Fields to Custom Metadata Properties",
+                      "type": "page_heading",
+                      "slug": "from-metadata-fields-to-custom-metadata-properties",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 63,
+                      "parentId": 22951,
+                      "children": []
+                    },
+                    {
+                      "id": 50341,
+                      "title": "From Metadata Values to CustomMetadata",
+                      "type": "page_heading",
+                      "slug": "from-metadata-values-to-custommetadata",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 64,
+                      "parentId": 22951,
+                      "children": []
+                    },
+                    {
+                      "id": 50342,
+                      "title": "Mutations",
+                      "type": "page_heading",
+                      "slug": "mutations",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 65,
+                      "parentId": 22951,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4969,
+              "title": "Access Control",
+              "type": "page_category",
+              "slug": "access-control",
+              "heading": "",
+              "subheading": "",
+              "sort": 3,
+              "children": [
+                {
+                  "id": 22949,
+                  "title": "Introduction",
+                  "type": "page",
+                  "slug": "introduction-p19523",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50328,
+                      "title": "Authentication vs Authorization",
+                      "type": "page_heading",
+                      "slug": "authentication-vs-authorization",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 51,
+                      "parentId": 22949,
+                      "children": []
+                    },
+                    {
+                      "id": 50329,
+                      "title": "User Permissions vs Scopes",
+                      "type": "page_heading",
+                      "slug": "user-permissions-vs-scopes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 52,
+                      "parentId": 22949,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22945,
+                  "title": "Authentication",
+                  "type": "page",
+                  "slug": "authentication",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50321,
+                      "title": "Developer token vs OAuth2",
+                      "type": "page_heading",
+                      "slug": "developer-token-vs-oauth2",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 44,
+                      "parentId": 22945,
+                      "children": []
+                    },
+                    {
+                      "id": 50322,
+                      "title": "Personal Developer Token",
+                      "type": "page_heading",
+                      "slug": "personal-developer-token",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 45,
+                      "parentId": 22945,
+                      "children": []
+                    },
+                    {
+                      "id": 50323,
+                      "title": "OAuth2.0",
+                      "type": "page_heading",
+                      "slug": "oauth2-0",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 46,
+                      "parentId": 22945,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22947,
+                  "title": "User Permissions",
+                  "type": "page",
+                  "slug": "user-permissions-p14535",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50324,
+                      "title": "Permissions in Frontify",
+                      "type": "page_heading",
+                      "slug": "permissions-in-frontify",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 47,
+                      "parentId": 22947,
+                      "children": []
+                    },
+                    {
+                      "id": 50325,
+                      "title": "Understanding your permissions",
+                      "type": "page_heading",
+                      "slug": "understanding-your-permissions",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 48,
+                      "parentId": 22947,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22944,
+                  "title": "Scopes",
+                  "type": "page",
+                  "slug": "scopes-p11876",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22946,
+                  "title": "OAuth2 Client",
+                  "type": "page",
+                  "slug": "oauth2-client-p11895",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 5,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22948,
+                  "title": "Rate Limiting and Limitations",
+                  "type": "page",
+                  "slug": "rate-limiting-and-limitations-1",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 6,
+                  "parentId": 4969,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50326,
+                      "title": "What happens if you exceed this limit?",
+                      "type": "page_heading",
+                      "slug": "what-happens-if-you-exceed-this-limit",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 49,
+                      "parentId": 22948,
+                      "children": []
+                    },
+                    {
+                      "id": 50327,
+                      "title": "How to avoid rate limiting errors",
+                      "type": "page_heading",
+                      "slug": "how-to-avoid-rate-limiting-errors",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 50,
+                      "parentId": 22948,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4965,
+              "title": "Details & Concepts",
+              "type": "page_category",
+              "slug": "details-concepts",
+              "heading": "",
+              "subheading": "",
+              "sort": 4,
+              "children": [
+                {
+                  "id": 22932,
+                  "title": "Endpoint and queries",
+                  "type": "page",
+                  "slug": "endpoint-and-queries",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50291,
+                      "title": "Request Format",
+                      "type": "page_heading",
+                      "slug": "request-format",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22932,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22928,
+                  "title": "Naming Conventions",
+                  "type": "page",
+                  "slug": "naming-conventions",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 7,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50287,
+                      "title": "Global Object Identification",
+                      "type": "page_heading",
+                      "slug": "global-object-identification",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22928,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22929,
+                  "title": "Error Handling",
+                  "type": "page",
+                  "slug": "error-handling",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 8,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50288,
+                      "title": "Server Error",
+                      "type": "page_heading",
+                      "slug": "server-error",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22929,
+                      "children": []
+                    },
+                    {
+                      "id": 50289,
+                      "title": "Authentication Error",
+                      "type": "page_heading",
+                      "slug": "authentication-error",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22929,
+                      "children": []
+                    },
+                    {
+                      "id": 50290,
+                      "title": "GraphQL Error",
+                      "type": "page_heading",
+                      "slug": "graphql-error",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22929,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22927,
+                  "title": "Data Structure",
+                  "type": "page",
+                  "slug": "data-structure",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 9,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50281,
+                      "title": "Account",
+                      "type": "page_heading",
+                      "slug": "account",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22927,
+                      "children": []
+                    },
+                    {
+                      "id": 50282,
+                      "title": "User",
+                      "type": "page_heading",
+                      "slug": "user",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22927,
+                      "children": []
+                    },
+                    {
+                      "id": 50283,
+                      "title": "Brand",
+                      "type": "page_heading",
+                      "slug": "brand",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22927,
+                      "children": []
+                    },
+                    {
+                      "id": 50284,
+                      "title": "Library",
+                      "type": "page_heading",
+                      "slug": "library",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22927,
+                      "children": []
+                    },
+                    {
+                      "id": 50285,
+                      "title": "Workspace (Project)",
+                      "type": "page_heading",
+                      "slug": "workspace-project",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22927,
+                      "children": []
+                    },
+                    {
+                      "id": 50286,
+                      "title": "Asset",
+                      "type": "page_heading",
+                      "slug": "asset",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22927,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22931,
+                  "title": "Beta / Preview Functionality",
+                  "type": "page",
+                  "slug": "beta-preview-functionality",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 10,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22930,
+                  "title": "Pagination",
+                  "type": "page",
+                  "slug": "pagination",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 11,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22933,
+                  "title": "Asset Lifecycle",
+                  "type": "page",
+                  "slug": "asset-lifecycle",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 12,
+                  "parentId": 4965,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50292,
+                      "title": "Asset Creation & Processing",
+                      "type": "page_heading",
+                      "slug": "asset-creation-processing",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22933,
+                      "children": []
+                    },
+                    {
+                      "id": 50293,
+                      "title": "Asset Status",
+                      "type": "page_heading",
+                      "slug": "asset-status",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 22933,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4966,
+              "title": "Deep Dive",
+              "type": "page_category",
+              "slug": "deep-dive",
+              "heading": "",
+              "subheading": "",
+              "sort": 5,
+              "children": [
+                {
+                  "id": 22934,
+                  "title": "GraphQL",
+                  "type": "page",
+                  "slug": "graphql",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50294,
+                      "title": "GraphQL Resources",
+                      "type": "page_heading",
+                      "slug": "graphql-resources",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 22934,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22935,
+                  "title": "Upload File & Create Asset",
+                  "type": "page",
+                  "slug": "upload-file-create-asset",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50295,
+                      "title": "Allowed file types",
+                      "type": "page_heading",
+                      "slug": "allowed-file-types",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 22935,
+                      "children": []
+                    },
+                    {
+                      "id": 50296,
+                      "title": "1. Initialize the Upload",
+                      "type": "page_heading",
+                      "slug": "1-initialize-the-upload",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 18,
+                      "parentId": 22935,
+                      "children": []
+                    },
+                    {
+                      "id": 50297,
+                      "title": "2. Upload binary file content",
+                      "type": "page_heading",
+                      "slug": "2-upload-binary-file-content",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 19,
+                      "parentId": 22935,
+                      "children": []
+                    },
+                    {
+                      "id": 50298,
+                      "title": "3. Use the file",
+                      "type": "page_heading",
+                      "slug": "3-use-the-file",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 20,
+                      "parentId": 22935,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22936,
+                  "title": "Search and Filter Asset",
+                  "type": "page",
+                  "slug": "search-and-filter-asset",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50299,
+                      "title": "Brand Level Search",
+                      "type": "page_heading",
+                      "slug": "brand-level-search",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 21,
+                      "parentId": 22936,
+                      "children": []
+                    },
+                    {
+                      "id": 50300,
+                      "title": "Workspace/Library Level",
+                      "type": "page_heading",
+                      "slug": "workspace-library-level",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 22,
+                      "parentId": 22936,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22937,
+                  "title": "Asset Workflow",
+                  "type": "page",
+                  "slug": "asset-workflow",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50301,
+                      "title": "Move Tasks: Enter Rules",
+                      "type": "page_heading",
+                      "slug": "move-tasks-enter-rules",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 23,
+                      "parentId": 22937,
+                      "children": []
+                    },
+                    {
+                      "id": 50302,
+                      "title": "Create a new Task",
+                      "type": "page_heading",
+                      "slug": "create-a-new-task",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 24,
+                      "parentId": 22937,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22938,
+                  "title": "Custom Metadata",
+                  "type": "page",
+                  "slug": "custom-metadata-1",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 5,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50303,
+                      "title": "Property Types",
+                      "type": "page_heading",
+                      "slug": "property-types",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 25,
+                      "parentId": 22938,
+                      "children": []
+                    },
+                    {
+                      "id": 50304,
+                      "title": "Getting available Properties for a Library",
+                      "type": "page_heading",
+                      "slug": "getting-available-properties-for-a-library",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 26,
+                      "parentId": 22938,
+                      "children": []
+                    },
+                    {
+                      "id": 50305,
+                      "title": "Query Properties and values for Assets",
+                      "type": "page_heading",
+                      "slug": "query-properties-and-values-for-assets",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 27,
+                      "parentId": 22938,
+                      "children": []
+                    },
+                    {
+                      "id": 50306,
+                      "title": "Mutating Custom Metadata Values for Assets",
+                      "type": "page_heading",
+                      "slug": "mutating-custom-metadata-values-for-assets",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 28,
+                      "parentId": 22938,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22939,
+                  "title": "Digital & Print Templates - External Data Sources",
+                  "type": "page",
+                  "slug": "digital-print-templates-external-data-sources",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 6,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50307,
+                      "title": "Obtaining the External Data Source ID",
+                      "type": "page_heading",
+                      "slug": "obtaining-the-external-data-source-id",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 29,
+                      "parentId": 22939,
+                      "children": []
+                    },
+                    {
+                      "id": 50308,
+                      "title": "Uploading a new File",
+                      "type": "page_heading",
+                      "slug": "uploading-a-new-file",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 30,
+                      "parentId": 22939,
+                      "children": []
+                    },
+                    {
+                      "id": 50309,
+                      "title": "Replacing an existing Data Source",
+                      "type": "page_heading",
+                      "slug": "replacing-an-existing-data-source",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 31,
+                      "parentId": 22939,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22940,
+                  "title": "Asset Preview and Download",
+                  "type": "page",
+                  "slug": "asset-preview-and-download",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 7,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50310,
+                      "title": "Preview URL",
+                      "type": "page_heading",
+                      "slug": "preview-url",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 32,
+                      "parentId": 22940,
+                      "children": []
+                    },
+                    {
+                      "id": 50311,
+                      "title": "Dynamic Preview URL",
+                      "type": "page_heading",
+                      "slug": "dynamic-preview-url",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 33,
+                      "parentId": 22940,
+                      "children": []
+                    },
+                    {
+                      "id": 50312,
+                      "title": "Download URL",
+                      "type": "page_heading",
+                      "slug": "download-url",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 34,
+                      "parentId": 22940,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22941,
+                  "title": "Template Data Fetching and Exporting",
+                  "type": "page",
+                  "slug": "template-data-fetching-and-exporting",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 8,
+                  "parentId": 4966,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50313,
+                      "title": "List Templates by Brand",
+                      "type": "page_heading",
+                      "slug": "list-templates-by-brand",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 35,
+                      "parentId": 22941,
+                      "children": []
+                    },
+                    {
+                      "id": 50314,
+                      "title": "Fetching Template details",
+                      "type": "page_heading",
+                      "slug": "fetching-template-details",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 36,
+                      "parentId": 22941,
+                      "children": []
+                    },
+                    {
+                      "id": 50315,
+                      "title": "Exporting a creative",
+                      "type": "page_heading",
+                      "slug": "exporting-a-creative",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 37,
+                      "parentId": 22941,
+                      "children": []
+                    },
+                    {
+                      "id": 50316,
+                      "title": "Check job status using a polling query",
+                      "type": "page_heading",
+                      "slug": "check-job-status-using-a-polling-query",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 38,
+                      "parentId": 22941,
+                      "children": []
+                    },
+                    {
+                      "id": 56730,
+                      "title": "Canceling jobs",
+                      "type": "page_heading",
+                      "slug": "canceling-jobs",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 39,
+                      "parentId": 22941,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4968,
+              "title": "Use Cases",
+              "type": "page_category",
+              "slug": "use-cases",
+              "heading": "",
+              "subheading": "",
+              "sort": 6,
+              "children": [
+                {
+                  "id": 22943,
+                  "title": "Sync Assets to Frontify",
+                  "type": "page",
+                  "slug": "sync-assets-to-frontify",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4968,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50317,
+                      "title": "Overview",
+                      "type": "page_heading",
+                      "slug": "overview",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 40,
+                      "parentId": 22943,
+                      "children": []
+                    },
+                    {
+                      "id": 50318,
+                      "title": "Create a new Asset using the External ID functionality",
+                      "type": "page_heading",
+                      "slug": "create-a-new-asset-using-the-external-id-functionality",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 41,
+                      "parentId": 22943,
+                      "children": []
+                    },
+                    {
+                      "id": 50319,
+                      "title": "Identify if a given Asset already exists on Frontify",
+                      "type": "page_heading",
+                      "slug": "identify-if-a-given-asset-already-exists-on-frontify",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 42,
+                      "parentId": 22943,
+                      "children": []
+                    },
+                    {
+                      "id": 50320,
+                      "title": "Determine if an Asset needs to be updated",
+                      "type": "page_heading",
+                      "slug": "determine-if-an-asset-needs-to-be-updated",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 43,
+                      "parentId": 22943,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2571,
+          "title": "Webhooks",
+          "type": "internal",
+          "slug": "webhooks",
+          "url": "/document/2571",
+          "sort": 2,
+          "children": [
+            {
+              "id": 4971,
+              "title": "General",
+              "type": "page_category",
+              "slug": "general",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 22952,
+                  "title": "Frontify Webhooks",
+                  "type": "page",
+                  "slug": "frontify-webhooks",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4971,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22953,
+                  "title": "Installing Webhooks",
+                  "type": "page",
+                  "slug": "installing-webhooks",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4971,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50343,
+                      "title": "Using localhost to consume webhooks",
+                      "type": "page_heading",
+                      "slug": "using-localhost-to-consume-webhooks",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22953,
+                      "children": []
+                    },
+                    {
+                      "id": 50344,
+                      "title": "Installing a webhook using GraphQL",
+                      "type": "page_heading",
+                      "slug": "installing-a-webhook-using-graphql",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22953,
+                      "children": []
+                    },
+                    {
+                      "id": 50345,
+                      "title": "Uninstalling Webhooks",
+                      "type": "page_heading",
+                      "slug": "uninstalling-webhooks",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22953,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22955,
+                  "title": "Setup your Server",
+                  "type": "page",
+                  "slug": "setup-your-server",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4971,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22954,
+                  "title": "Security and Best Practices",
+                  "type": "page",
+                  "slug": "security-and-best-practices",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4971,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50346,
+                      "title": "Responding to Webhooks",
+                      "type": "page_heading",
+                      "slug": "responding-to-webhooks",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22954,
+                      "children": []
+                    },
+                    {
+                      "id": 50347,
+                      "title": "Retries on Failure",
+                      "type": "page_heading",
+                      "slug": "retries-on-failure",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22954,
+                      "children": []
+                    },
+                    {
+                      "id": 50348,
+                      "title": "Disable CSRF Protection",
+                      "type": "page_heading",
+                      "slug": "disable-csrf-protection",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22954,
+                      "children": []
+                    },
+                    {
+                      "id": 50349,
+                      "title": "Verifying Webhook (Security)",
+                      "type": "page_heading",
+                      "slug": "verifying-webhook-security",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22954,
+                      "children": []
+                    },
+                    {
+                      "id": 50350,
+                      "title": "Event Handling",
+                      "type": "page_heading",
+                      "slug": "event-handling",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22954,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22957,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 5,
+                  "parentId": 4971,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50351,
+                      "title": "How to deal with changes",
+                      "type": "page_heading",
+                      "slug": "how-to-deal-with-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22957,
+                      "children": []
+                    },
+                    {
+                      "id": 50352,
+                      "title": "Changes",
+                      "type": "page_heading",
+                      "slug": "changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22957,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4972,
+              "title": "Events and Payload",
+              "type": "page_category",
+              "slug": "events-and-payload",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22958,
+                  "title": "Event Format",
+                  "type": "page",
+                  "slug": "event-format",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4972,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50353,
+                      "title": "Different Event Payloads",
+                      "type": "page_heading",
+                      "slug": "different-event-payloads",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22958,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22959,
+                  "title": "Asset Created Payload",
+                  "type": "page",
+                  "slug": "asset-created-payload",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4972,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50354,
+                      "title": "When does this event occur",
+                      "type": "page_heading",
+                      "slug": "when-does-this-event-occur",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22959,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22960,
+                  "title": "Asset Updated Payload",
+                  "type": "page",
+                  "slug": "asset-updated-payload",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4972,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50355,
+                      "title": "When does this event occur",
+                      "type": "page_heading",
+                      "slug": "when-does-this-event-occur",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22960,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22961,
+                  "title": "Asset Deleted Payload",
+                  "type": "page",
+                  "slug": "asset-deleted-payload",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4972,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50356,
+                      "title": "When does this event occur",
+                      "type": "page_heading",
+                      "slug": "when-does-this-event-occur",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22961,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2572,
+          "title": "Asset Processing API",
+          "type": "internal",
+          "slug": "asset-processing-api",
+          "url": "/document/2572",
+          "sort": 3,
+          "children": [
+            {
+              "id": 4973,
+              "title": "Introduction",
+              "type": "page_category",
+              "slug": "introduction",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 22963,
+                  "title": "Asset Processing",
+                  "type": "page",
+                  "slug": "asset-processing",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4973,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22964,
+                  "title": "Best Practices and Questions",
+                  "type": "page",
+                  "slug": "best-practices-and-questions",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4973,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50357,
+                      "title": "Frequently Asked Questions (FAQ)",
+                      "type": "page_heading",
+                      "slug": "frequently-asked-questions-faq",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22964,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22966,
+                  "title": "Architecture & Performance",
+                  "type": "page",
+                  "slug": "architecture-performance",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4973,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 4974,
+              "title": "Operations",
+              "type": "page_category",
+              "slug": "operations",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22967,
+                  "title": "Resizing",
+                  "type": "page",
+                  "slug": "resizing",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22968,
+                  "title": "Cropping (Focal Point)",
+                  "type": "page",
+                  "slug": "cropping-focal-point",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22972,
+                  "title": "Image Quality",
+                  "type": "page",
+                  "slug": "image-quality",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22973,
+                  "title": "Format Transformation",
+                  "type": "page",
+                  "slug": "format-transformation",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22969,
+                  "title": "Page (PDF / Office files)",
+                  "type": "page",
+                  "slug": "page-pdf-office-files",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 5,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22970,
+                  "title": "Video Frame (Videos)",
+                  "type": "page",
+                  "slug": "video-frame-videos",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 6,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22971,
+                  "title": "Recoloring (SVGs)",
+                  "type": "page",
+                  "slug": "recoloring-svgs",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 7,
+                  "parentId": 4974,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2693,
+          "title": "Media Processing API (beta)",
+          "type": "internal",
+          "slug": "media-processing-api-beta",
+          "url": "/document/2693",
+          "sort": 4,
+          "children": [
+            {
+              "id": 5304,
+              "title": "Introduction",
+              "type": "page_category",
+              "slug": "introduction",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 24123,
+                  "title": "Media Processing (BETA)",
+                  "type": "page",
+                  "slug": "media-processing-beta",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 5304,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 24194,
+                  "title": "Getting started",
+                  "type": "page",
+                  "slug": "getting-started",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 5304,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 53713,
+                      "title": "Usage",
+                      "type": "page_heading",
+                      "slug": "usage",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 24194,
+                      "children": []
+                    },
+                    {
+                      "id": 53714,
+                      "title": "Frequently Asked Questions (FAQ)",
+                      "type": "page_heading",
+                      "slug": "frequently-asked-questions-faq",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 24194,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 24195,
+                  "title": "Architecture & Performance",
+                  "type": "page",
+                  "slug": "architecture-performance",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 5304,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 5305,
+              "title": "Reference",
+              "type": "page_category",
+              "slug": "reference",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 24124,
+                  "title": "API transformations",
+                  "type": "page",
+                  "slug": "api-transformations",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 5305,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 53563,
+                      "title": "Syntax",
+                      "type": "page_heading",
+                      "slug": "syntax",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 24124,
+                      "children": []
+                    },
+                    {
+                      "id": 53711,
+                      "title": "Fundamentals",
+                      "type": "page_heading",
+                      "slug": "fundamentals",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 24124,
+                      "children": []
+                    },
+                    {
+                      "id": 53565,
+                      "title": "List of transformations",
+                      "type": "page_heading",
+                      "slug": "list-of-transformations",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 24124,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 24149,
+                  "title": "API parameters",
+                  "type": "page",
+                  "slug": "api-parameters",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 5305,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 53587,
+                      "title": "anchor",
+                      "type": "page_heading",
+                      "slug": "anchor",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53588,
+                      "title": "angle",
+                      "type": "page_heading",
+                      "slug": "angle",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53589,
+                      "title": "axis",
+                      "type": "page_heading",
+                      "slug": "axis",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53590,
+                      "title": "boolean",
+                      "type": "page_heading",
+                      "slug": "boolean",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53591,
+                      "title": "color",
+                      "type": "page_heading",
+                      "slug": "color",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53592,
+                      "title": "coordinates",
+                      "type": "page_heading",
+                      "slug": "coordinates",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53593,
+                      "title": "crop size",
+                      "type": "page_heading",
+                      "slug": "crop-size",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53594,
+                      "title": "length",
+                      "type": "page_heading",
+                      "slug": "length",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53595,
+                      "title": "number",
+                      "type": "page_heading",
+                      "slug": "number",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53596,
+                      "title": "padding",
+                      "type": "page_heading",
+                      "slug": "padding",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53597,
+                      "title": "ratio",
+                      "type": "page_heading",
+                      "slug": "ratio",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 24149,
+                      "children": []
+                    },
+                    {
+                      "id": 53598,
+                      "title": "size",
+                      "type": "page_heading",
+                      "slug": "size",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 24149,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2575,
+          "title": "GraphQL Explorer",
+          "type": "external",
+          "slug": "graphql-explorer",
+          "url": "https://frontify.github.io/public-api-explorer",
+          "sort": 5,
+          "children": []
+        },
+        {
+          "id": 2577,
+          "title": "GraphQL Reference",
+          "type": "external",
+          "slug": "graphql-reference",
+          "url": "https://frontify.github.io/graphql-reference/",
+          "sort": 6,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "title": "Widgets",
+      "type": "group",
+      "sort": 4,
+      "children": [
+        {
+          "id": 2573,
+          "title": "Finder",
+          "type": "internal",
+          "slug": "finder",
+          "url": "/document/2573",
+          "sort": 1,
+          "children": [
+            {
+              "id": 4976,
+              "title": "General",
+              "type": "page_category",
+              "slug": "general",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 22977,
+                  "title": "Frontify Finder",
+                  "type": "page",
+                  "slug": "frontify-finder",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4976,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22978,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4976,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50365,
+                      "title": "How to Deal with Changes",
+                      "type": "page_heading",
+                      "slug": "how-to-deal-with-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 52883,
+                      "title": "Release v2.2.0 — Thumbnail URLs added",
+                      "type": "page_heading",
+                      "slug": "release-v2-2-0-thumbnail-urls-added",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 50366,
+                      "title": "Release v2.1.0 — Dynamic preview URLs added",
+                      "type": "page_heading",
+                      "slug": "release-v2-1-0-dynamic-preview-urls-added",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 52881,
+                      "title": "Release v2.1.0 — Dynamic preview URLs added",
+                      "type": "page_heading",
+                      "slug": "release-v2-1-0-dynamic-preview-urls-added-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 50367,
+                      "title": "Release v2.0.3 — Bugfix: Permanent download URLs",
+                      "type": "page_heading",
+                      "slug": "release-v2-0-3-bugfix-permanent-download-urls",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 50368,
+                      "title": "Release v2.0.2 — Permanent download URLs added",
+                      "type": "page_heading",
+                      "slug": "release-v2-0-2-permanent-download-urls-added",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 50369,
+                      "title": "Release v2.0.1",
+                      "type": "page_heading",
+                      "slug": "release-v2-0-1",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22978,
+                      "children": []
+                    },
+                    {
+                      "id": 50370,
+                      "title": "Release v2.0.0",
+                      "type": "page_heading",
+                      "slug": "release-v2-0-0",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22978,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22979,
+                  "title": "Upgrade Guide",
+                  "type": "page",
+                  "slug": "upgrade-guide",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4976,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50371,
+                      "title": "v1.x to v2.0",
+                      "type": "page_heading",
+                      "slug": "v1-x-to-v2-0",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 22979,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22981,
+                  "title": "Best Practices",
+                  "type": "page",
+                  "slug": "best-practices",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4976,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22980,
+                  "title": "Getting Started",
+                  "type": "page",
+                  "slug": "getting-started",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 5,
+                  "parentId": 4976,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50372,
+                      "title": "Installation",
+                      "type": "page_heading",
+                      "slug": "installation",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 22980,
+                      "children": []
+                    },
+                    {
+                      "id": 50373,
+                      "title": "Usage",
+                      "type": "page_heading",
+                      "slug": "usage",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 22980,
+                      "children": []
+                    },
+                    {
+                      "id": 50374,
+                      "title": "Full usage Example",
+                      "type": "page_heading",
+                      "slug": "full-usage-example",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 18,
+                      "parentId": 22980,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4975,
+              "title": "Details and Concepts",
+              "type": "page_category",
+              "slug": "details-and-concepts",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22974,
+                  "title": "Errors & Warnings",
+                  "type": "page",
+                  "slug": "errors-warnings",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4975,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22975,
+                  "title": "OAuth2 Client",
+                  "type": "page",
+                  "slug": "oauth2-client",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4975,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22976,
+                  "title": "Asset",
+                  "type": "page",
+                  "slug": "asset",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 4,
+                  "parentId": 4975,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50359,
+                      "title": "Distinct Properties per Type",
+                      "type": "page_heading",
+                      "slug": "distinct-properties-per-type",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22976,
+                      "children": []
+                    },
+                    {
+                      "id": 50360,
+                      "title": "File",
+                      "type": "page_heading",
+                      "slug": "file",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22976,
+                      "children": []
+                    },
+                    {
+                      "id": 50361,
+                      "title": "Video",
+                      "type": "page_heading",
+                      "slug": "video-2",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22976,
+                      "children": []
+                    },
+                    {
+                      "id": 50362,
+                      "title": "Audio",
+                      "type": "page_heading",
+                      "slug": "audio",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22976,
+                      "children": []
+                    },
+                    {
+                      "id": 50363,
+                      "title": "Document",
+                      "type": "page_heading",
+                      "slug": "document",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22976,
+                      "children": []
+                    },
+                    {
+                      "id": 50364,
+                      "title": "Image",
+                      "type": "page_heading",
+                      "slug": "image",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22976,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4977,
+              "title": "Deprecated Versions",
+              "type": "page_category",
+              "slug": "deprecated-versions",
+              "heading": "",
+              "subheading": "",
+              "sort": 3,
+              "children": [
+                {
+                  "id": 22982,
+                  "title": "Frontify Finder v1",
+                  "type": "page",
+                  "slug": "frontify-finder-v1",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4977,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50375,
+                      "title": "Introduction",
+                      "type": "page_heading",
+                      "slug": "introduction",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 19,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50376,
+                      "title": "Interaction",
+                      "type": "page_heading",
+                      "slug": "interaction",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 20,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50377,
+                      "title": "Getting started",
+                      "type": "page_heading",
+                      "slug": "getting-started",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 21,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50378,
+                      "title": "Sources",
+                      "type": "page_heading",
+                      "slug": "sources",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 22,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50379,
+                      "title": "Options",
+                      "type": "page_heading",
+                      "slug": "options",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 23,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50380,
+                      "title": "Assets Data Structure",
+                      "type": "page_heading",
+                      "slug": "assets-data-structure",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 24,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50381,
+                      "title": "Error/Warning Codes",
+                      "type": "page_heading",
+                      "slug": "error-warning-codes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 25,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50382,
+                      "title": "Browser Support",
+                      "type": "page_heading",
+                      "slug": "browser-support",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 26,
+                      "parentId": 22982,
+                      "children": []
+                    },
+                    {
+                      "id": 50383,
+                      "title": "Releases",
+                      "type": "page_heading",
+                      "slug": "releases",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 27,
+                      "parentId": 22982,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2574,
+          "title": "Authenticator",
+          "type": "internal",
+          "slug": "authenticator",
+          "url": "/document/2574",
+          "sort": 2,
+          "children": [
+            {
+              "id": 4979,
+              "title": "General",
+              "type": "page_category",
+              "slug": "general",
+              "heading": "",
+              "subheading": "",
+              "sort": 1,
+              "children": [
+                {
+                  "id": 22984,
+                  "title": "Authenticator",
+                  "type": "page",
+                  "slug": "authenticator",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4979,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22986,
+                  "title": "Changelog",
+                  "type": "page",
+                  "slug": "changelog",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4979,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50395,
+                      "title": "How to deal with changes",
+                      "type": "page_heading",
+                      "slug": "how-to-deal-with-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 12,
+                      "parentId": 22986,
+                      "children": []
+                    },
+                    {
+                      "id": 50396,
+                      "title": "Scheduled Changes",
+                      "type": "page_heading",
+                      "slug": "scheduled-changes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 13,
+                      "parentId": 22986,
+                      "children": []
+                    },
+                    {
+                      "id": 50397,
+                      "title": "Release V2.0.0",
+                      "type": "page_heading",
+                      "slug": "release-v2-0-0",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 14,
+                      "parentId": 22986,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": 22985,
+                  "title": "Best Practices",
+                  "type": "page",
+                  "slug": "best-practices",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 6,
+                  "parentId": 4979,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22987,
+                  "title": "Getting Started",
+                  "type": "page",
+                  "slug": "getting-started",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 8,
+                  "parentId": 4979,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50398,
+                      "title": "Installation",
+                      "type": "page_heading",
+                      "slug": "installation",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 15,
+                      "parentId": 22987,
+                      "children": []
+                    },
+                    {
+                      "id": 50399,
+                      "title": "Usage",
+                      "type": "page_heading",
+                      "slug": "usage",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 16,
+                      "parentId": 22987,
+                      "children": []
+                    },
+                    {
+                      "id": 50400,
+                      "title": "Call our API using the Token",
+                      "type": "page_heading",
+                      "slug": "call-our-api-using-the-token",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 17,
+                      "parentId": 22987,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4980,
+              "title": "Details & Concepts",
+              "type": "page_category",
+              "slug": "details-concepts",
+              "heading": "",
+              "subheading": "",
+              "sort": 2,
+              "children": [
+                {
+                  "id": 22990,
+                  "title": "Token",
+                  "type": "page",
+                  "slug": "token",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 2,
+                  "parentId": 4980,
+                  "isPublished": true,
+                  "children": []
+                },
+                {
+                  "id": 22991,
+                  "title": "OAuth2 Client",
+                  "type": "page",
+                  "slug": "oauth2-client",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 3,
+                  "parentId": 4980,
+                  "isPublished": true,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": 4978,
+              "title": "Deprecated Versions",
+              "type": "page_category",
+              "slug": "deprecated-versions",
+              "heading": "",
+              "subheading": "",
+              "sort": 3,
+              "children": [
+                {
+                  "id": 22983,
+                  "title": "Frontify Authenticator v1",
+                  "type": "page",
+                  "slug": "frontify-authenticator-v1",
+                  "heading": "",
+                  "subheading": "",
+                  "sort": 1,
+                  "parentId": 4978,
+                  "isPublished": true,
+                  "children": [
+                    {
+                      "id": 50384,
+                      "title": "Introduction",
+                      "type": "page_heading",
+                      "slug": "introduction",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 1,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50385,
+                      "title": "Requirements",
+                      "type": "page_heading",
+                      "slug": "requirements",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 2,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50386,
+                      "title": "Namespace",
+                      "type": "page_heading",
+                      "slug": "namespace",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 3,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50387,
+                      "title": "Interaction",
+                      "type": "page_heading",
+                      "slug": "interaction",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 4,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50388,
+                      "title": "Getting started",
+                      "type": "page_heading",
+                      "slug": "getting-started",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 5,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50389,
+                      "title": "Sources",
+                      "type": "page_heading",
+                      "slug": "sources",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 6,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50390,
+                      "title": "Options",
+                      "type": "page_heading",
+                      "slug": "options",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 7,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50391,
+                      "title": "Reset",
+                      "type": "page_heading",
+                      "slug": "reset",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 8,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50392,
+                      "title": "Error/Warning Codes",
+                      "type": "page_heading",
+                      "slug": "error-warning-codes",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 9,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50393,
+                      "title": "Browser support",
+                      "type": "page_heading",
+                      "slug": "browser-support",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 10,
+                      "parentId": 22983,
+                      "children": []
+                    },
+                    {
+                      "id": 50394,
+                      "title": "Releases",
+                      "type": "page_heading",
+                      "slug": "releases",
+                      "heading": "",
+                      "subheading": "",
+                      "sort": 11,
+                      "parentId": 22983,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "title": "Contact us",
+      "type": "group",
+      "sort": 6,
+      "children": [
+        {
+          "id": 2585,
+          "title": "Bug report",
+          "type": "external",
+          "slug": "bug-report",
+          "url": "https://forms.clickup.com/2523021/f/2czwd-124932/2OEP5X5S3O8SDM2MOO",
+          "sort": 2,
+          "children": []
+        },
+        {
+          "id": 2586,
+          "title": "System status",
+          "type": "external",
+          "slug": "system-status",
+          "url": "https://status.frontify.com/",
+          "sort": 3,
+          "children": []
+        },
+        {
+          "id": 2587,
+          "title": "Becoming a partner",
+          "type": "external",
+          "slug": "becoming-a-partner",
+          "url": "https://www.frontify.com/en/partnership/",
+          "sort": 4,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

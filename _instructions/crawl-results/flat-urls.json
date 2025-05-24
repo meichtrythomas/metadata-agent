@@ -1,0 +1,3442 @@
+[
+  {
+    "title": "Getting started",
+    "url": "https://developer.frontify.com/document/2617#/introduction/getting-started",
+    "path": "introduction",
+    "fullPath": "introduction/getting-started",
+    "type": "internal",
+    "id": 2617
+  },
+  {
+    "title": "Welcome",
+    "url": "https://developer.frontify.com/document/2617#/introduction/welcome",
+    "path": "introduction",
+    "fullPath": "introduction/welcome",
+    "type": "page",
+    "parentId": 2617,
+    "id": 23178
+  },
+  {
+    "title": "Help and questions",
+    "url": "https://developer.frontify.com/document/2617#/introduction/help-and-questions",
+    "path": "introduction",
+    "fullPath": "introduction/help-and-questions",
+    "type": "page",
+    "parentId": 2617,
+    "id": 23180
+  },
+  {
+    "title": "Brand SDK",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/brand-sdk",
+    "path": "brand-sdk",
+    "fullPath": "brand-sdk/brand-sdk",
+    "type": "internal",
+    "id": 2582
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/introduction",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/introduction",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23257
+  },
+  {
+    "title": "What is the Brand SDK?",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/what-is-the-brand-sdk",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/what-is-the-brand-sdk",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51018
+  },
+  {
+    "title": "What you can build",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/what-you-can-build",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/what-you-can-build",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51019
+  },
+  {
+    "title": "What's included?",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/what-s-included",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/what-s-included",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51020
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/prerequisites",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/prerequisites",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23014
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/introduction",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/introduction",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51048
+  },
+  {
+    "title": "Node.js",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/node-js",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/node-js",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51049
+  },
+  {
+    "title": "Frontify CLI",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/frontify-cli",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/frontify-cli",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51050
+  },
+  {
+    "title": "React Developer Tools",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/react-developer-tools",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/react-developer-tools",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51051
+  },
+  {
+    "title": "Frontify account",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/frontify-account",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/frontify-account",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51068
+  },
+  {
+    "title": "For creatives",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/for-creatives",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/for-creatives",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23015
+  },
+  {
+    "title": "Figma Design Kit",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/figma-design-kit",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/figma-design-kit",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50456
+  },
+  {
+    "title": "Videos",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/videos",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/videos",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 51052
+  },
+  {
+    "title": "Storybook components",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/storybook-components",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/storybook-components",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50457
+  },
+  {
+    "title": "Glossary",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/glossary",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/glossary",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22894
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/changelog",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/changelog",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23016
+  },
+  {
+    "title": "Brand SDK Releases",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/brand-sdk-releases",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/brand-sdk-releases",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50463
+  },
+  {
+    "title": "Terms of use",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/terms-of-use",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/terms-of-use",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22893
+  },
+  {
+    "title": "Definitions",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/definitions",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/definitions",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50166
+  },
+  {
+    "title": "1. Brand SDK",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/1-brand-sdk",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/1-brand-sdk",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50167
+  },
+  {
+    "title": "2. Content Blocks",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/2-content-blocks",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/2-content-blocks",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50168
+  },
+  {
+    "title": "3. Feedback",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/3-feedback",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/3-feedback",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50169
+  },
+  {
+    "title": "4. Warranty disclaimers",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/4-warranty-disclaimers",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/4-warranty-disclaimers",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50170
+  },
+  {
+    "title": "5. Limitation of liability",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/5-limitation-of-liability",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/5-limitation-of-liability",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50171
+  },
+  {
+    "title": "6. Developer’s warranties",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/6-developer-s-warranties",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/6-developer-s-warranties",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50172
+  },
+  {
+    "title": "7. Indemnification",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/7-indemnification",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/7-indemnification",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50173
+  },
+  {
+    "title": "8. Term and termination",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/8-term-and-termination",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/8-term-and-termination",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50174
+  },
+  {
+    "title": "9. Confidentiality",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/9-confidentiality",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/9-confidentiality",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50175
+  },
+  {
+    "title": "10. Final Provisions",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/getting-started/10-final-provisions",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/10-final-provisions",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50176
+  },
+  {
+    "title": "Architecture",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/architecture",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/architecture",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23018
+  },
+  {
+    "title": "Why React components?",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/why-react-components",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/why-react-components",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50465
+  },
+  {
+    "title": "The App-Bridge",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/the-app-bridge",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/the-app-bridge",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50466
+  },
+  {
+    "title": "Frontify CLI",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/frontify-cli",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/frontify-cli",
+    "type": "page",
+    "parentId": 2582,
+    "id": 23019
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/prerequisites",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/prerequisites",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50467
+  },
+  {
+    "title": "Authentification",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/details-concepts/authentification",
+    "path": "brand-sdk/details-concepts",
+    "fullPath": "brand-sdk/details-concepts/authentification",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50470
+  },
+  {
+    "title": "Overview",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/overview",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/overview",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22904
+  },
+  {
+    "title": "What is the Frontify Marketplace",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/what-is-the-frontify-marketplace",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/what-is-the-frontify-marketplace",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50220
+  },
+  {
+    "title": "Releasing a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/releasing-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/releasing-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50221
+  },
+  {
+    "title": "Create and deploy",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/create-and-deploy",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/create-and-deploy",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22907
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/prerequisites",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/prerequisites",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50231
+  },
+  {
+    "title": "Create a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/create-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/create-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50232
+  },
+  {
+    "title": "Deploy your Content Block to the Marketplace",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/deploy-your-content-block-to-the-marketplace",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/deploy-your-content-block-to-the-marketplace",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50233
+  },
+  {
+    "title": "Listing on the Marketplace",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/listing-on-the-marketplace",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/listing-on-the-marketplace",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22905
+  },
+  {
+    "title": "Who to involve",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/who-to-involve",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/who-to-involve",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50222
+  },
+  {
+    "title": "Required content elements",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/required-content-elements",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/required-content-elements",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50223
+  },
+  {
+    "title": "Writing a Content Block description",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/writing-a-content-block-description",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/writing-a-content-block-description",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50224
+  },
+  {
+    "title": "Adding Release Notes",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/adding-release-notes",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/adding-release-notes",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50225
+  },
+  {
+    "title": "Publish your Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/publish-your-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/publish-your-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50226
+  },
+  {
+    "title": "Update and maintain",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/update-and-maintain",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/update-and-maintain",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22906
+  },
+  {
+    "title": "Update a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/update-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/update-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50227
+  },
+  {
+    "title": "Installing a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/installing-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/installing-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50228
+  },
+  {
+    "title": "Updating/Reverting a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/updating-reverting-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/updating-reverting-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50229
+  },
+  {
+    "title": "Uninstalling a Content Block",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/uninstalling-a-content-block",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/uninstalling-a-content-block",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50230
+  },
+  {
+    "title": "Marketplace Terms",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/marketplace-terms",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/marketplace-terms",
+    "type": "page",
+    "parentId": 2582,
+    "id": 22909
+  },
+  {
+    "title": "1. The Marketplace",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/1-the-marketplace",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/1-the-marketplace",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50234
+  },
+  {
+    "title": "2. Your use of the Apps",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/2-your-use-of-the-apps",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/2-your-use-of-the-apps",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50235
+  },
+  {
+    "title": "3. Data processing",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/3-data-processing",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/3-data-processing",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50236
+  },
+  {
+    "title": "4. Your Responsibilities",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/4-your-responsibilities",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/4-your-responsibilities",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50237
+  },
+  {
+    "title": "5. Term and Termination",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/5-term-and-termination",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/5-term-and-termination",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50238
+  },
+  {
+    "title": "6. Disclaimers and limitation of liability",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/6-disclaimers-and-limitation-of-liability",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/6-disclaimers-and-limitation-of-liability",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50239
+  },
+  {
+    "title": "7. Final Provisions",
+    "url": "https://developer.frontify.com/document/2582#/brand-sdk/marketplace/7-final-provisions",
+    "path": "brand-sdk/marketplace",
+    "fullPath": "brand-sdk/marketplace/7-final-provisions",
+    "type": "page_heading",
+    "parentId": 2582,
+    "id": 50240
+  },
+  {
+    "title": "Content blocks",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/content-blocks",
+    "path": "brand-sdk",
+    "fullPath": "brand-sdk/content-blocks",
+    "type": "internal",
+    "id": 2569
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/introduction",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/introduction",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22891
+  },
+  {
+    "title": "Engineers",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/engineers",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/engineers",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50164
+  },
+  {
+    "title": "Designers",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/designers",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/designers",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50165
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/prerequisites",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/prerequisites",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22892
+  },
+  {
+    "title": "Quick start",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/quick-start-1",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/quick-start-1",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22890
+  },
+  {
+    "title": "Getting started with the Brand SDK",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/getting-started-with-the-brand-sdk",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/getting-started-with-the-brand-sdk",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50162
+  },
+  {
+    "title": "What’s next?",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/what-s-next",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/what-s-next",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50163
+  },
+  {
+    "title": "For creatives",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/for-creatives-1",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/for-creatives-1",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22889
+  },
+  {
+    "title": "The Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/the-content-block",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/the-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50156
+  },
+  {
+    "title": "The sidebar",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/the-sidebar-1",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/the-sidebar-1",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50157
+  },
+  {
+    "title": "Core principles",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/core-principles-1",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/core-principles-1",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50158
+  },
+  {
+    "title": "Figma Design Kit",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/figma-design-kit",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/figma-design-kit",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50159
+  },
+  {
+    "title": "Storybook components",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/storybook-components",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/storybook-components",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50160
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/changelog",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/changelog",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22887
+  },
+  {
+    "title": "Brand SDK Releases",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/brand-sdk-releases",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/brand-sdk-releases",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50154
+  },
+  {
+    "title": "Block Releases",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/getting-started-1/block-releases",
+    "path": "brand-sdk/getting-started-1",
+    "fullPath": "brand-sdk/getting-started-1/block-releases",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50155
+  },
+  {
+    "title": "Architecture",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/architecture",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/architecture",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22900
+  },
+  {
+    "title": "Why React components?",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/why-react-components",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/why-react-components",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50204
+  },
+  {
+    "title": "The App-Bridge",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/the-app-bridge",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/the-app-bridge",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50205
+  },
+  {
+    "title": "Frontify CLI",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/frontify-cli",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/frontify-cli",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22896
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/prerequisites",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/prerequisites",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50183
+  },
+  {
+    "title": "Creating a new Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/creating-a-new-content-block-1",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/creating-a-new-content-block-1",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50184
+  },
+  {
+    "title": "Serving a Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/serving-a-content-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/serving-a-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50185
+  },
+  {
+    "title": "Authentification",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/authentification",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/authentification",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50186
+  },
+  {
+    "title": "Deployment of a content block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/deployment-of-a-content-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/deployment-of-a-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50187
+  },
+  {
+    "title": "Content Blocks",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/content-blocks",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/content-blocks",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22895
+  },
+  {
+    "title": "Content Blocks Structure",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/content-blocks-structure",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/content-blocks-structure",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50177
+  },
+  {
+    "title": "A Basic Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/a-basic-content-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/a-basic-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50178
+  },
+  {
+    "title": "Getting Started With a New Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/getting-started-with-a-new-content-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/getting-started-with-a-new-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50179
+  },
+  {
+    "title": "Adding a Content Block to Frontify",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/adding-a-content-block-to-frontify",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/adding-a-content-block-to-frontify",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50180
+  },
+  {
+    "title": "Introducing the App Bridge",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/introducing-the-app-bridge",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/introducing-the-app-bridge",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50181
+  },
+  {
+    "title": "Deployment of a Content Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/deployment-of-a-content-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/deployment-of-a-content-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50182
+  },
+  {
+    "title": "Block settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/block-settings-1",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/block-settings-1",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22897
+  },
+  {
+    "title": "Introducing Block Settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/introducing-block-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/introducing-block-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50188
+  },
+  {
+    "title": "Settings anatomy",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/settings-anatomy",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/settings-anatomy",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50189
+  },
+  {
+    "title": "The Settings Type Object",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/the-settings-type-object",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/the-settings-type-object",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50190
+  },
+  {
+    "title": "Settings Block Types",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/settings-block-types",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/settings-block-types",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50191
+  },
+  {
+    "title": "Store Arbitrary Data within your Block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/store-arbitrary-data-within-your-block",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/store-arbitrary-data-within-your-block",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50192
+  },
+  {
+    "title": "Setting types",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/setting-types",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/setting-types",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22901
+  },
+  {
+    "title": "Shared properties",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/shared-properties",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/shared-properties",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50206
+  },
+  {
+    "title": "Asset input",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/asset-input",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/asset-input",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50207
+  },
+  {
+    "title": "Checklist",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/checklist",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/checklist",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50208
+  },
+  {
+    "title": "Color input",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/color-input",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/color-input",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50209
+  },
+  {
+    "title": "Select field",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/select-field",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/select-field",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50210
+  },
+  {
+    "title": "Input",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/input",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/input",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50211
+  },
+  {
+    "title": "Linkchooser",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/linkchooser",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/linkchooser",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50212
+  },
+  {
+    "title": "Multi input",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/multi-input",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/multi-input",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50213
+  },
+  {
+    "title": "Notification",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/notification",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/notification",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50214
+  },
+  {
+    "title": "Section heading",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/section-heading",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/section-heading",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50215
+  },
+  {
+    "title": "Segmented control",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/segmented-control",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/segmented-control",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50216
+  },
+  {
+    "title": "Switch",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/switch",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/switch",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50217
+  },
+  {
+    "title": "Textarea",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/textarea",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/textarea",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50218
+  },
+  {
+    "title": "Settings patterns",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/settings-patterns-1",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/settings-patterns-1",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22898
+  },
+  {
+    "title": "Alignment settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/alignment-settings-1",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/alignment-settings-1",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50193
+  },
+  {
+    "title": "Border settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/border-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/border-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50194
+  },
+  {
+    "title": "Color settings (conditional)",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/color-settings-conditional",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/color-settings-conditional",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50195
+  },
+  {
+    "title": "Multi-input settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/multi-input-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/multi-input-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50196
+  },
+  {
+    "title": "Corner radius settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/corner-radius-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/corner-radius-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50197
+  },
+  {
+    "title": "Height settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/height-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/height-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50198
+  },
+  {
+    "title": "Width settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/width-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/width-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50199
+  },
+  {
+    "title": "Padding settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/padding-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/padding-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50200
+  },
+  {
+    "title": "Positioning settings",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/positioning-settings",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/positioning-settings",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50201
+  },
+  {
+    "title": "Other patterns",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/other-patterns",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/other-patterns",
+    "type": "page",
+    "parentId": 2569,
+    "id": 24058
+  },
+  {
+    "title": "Block inject element",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/block-inject-element-1",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/block-inject-element-1",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 53385
+  },
+  {
+    "title": "Block item toolbar",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/block-item-toolbar",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/block-item-toolbar",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 53378
+  },
+  {
+    "title": "Block item wrapper",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/block-item-wrapper",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/block-item-wrapper",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 53386
+  },
+  {
+    "title": "Attachment buttons",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/attachment-buttons",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/attachment-buttons",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 53383
+  },
+  {
+    "title": "Block lifecycle",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/block-lifecycle",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/block-lifecycle",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22899
+  },
+  {
+    "title": "On Block Creation",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/on-block-creation",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/on-block-creation",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50202
+  },
+  {
+    "title": "On Block Deletion",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/details-concepts-1/on-block-deletion",
+    "path": "brand-sdk/details-concepts-1",
+    "fullPath": "brand-sdk/details-concepts-1/on-block-deletion",
+    "type": "page_heading",
+    "parentId": 2569,
+    "id": 50203
+  },
+  {
+    "title": "Building a Typeform block",
+    "url": "https://developer.frontify.com/document/2569#/brand-sdk/use-cases-1/building-a-typeform-block-1",
+    "path": "brand-sdk/use-cases-1",
+    "fullPath": "brand-sdk/use-cases-1/building-a-typeform-block-1",
+    "type": "page",
+    "parentId": 2569,
+    "id": 22903
+  },
+  {
+    "title": "Apps",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/apps",
+    "path": "brand-sdk",
+    "fullPath": "brand-sdk/apps",
+    "type": "internal",
+    "id": 2580
+  },
+  {
+    "title": "Quick start ",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/quick-start",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/quick-start",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23008
+  },
+  {
+    "title": "Prerequisites",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/prerequisites",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/prerequisites",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50432
+  },
+  {
+    "title": "Creating the app",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/creating-the-app",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/creating-the-app",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50433
+  },
+  {
+    "title": "Running your app locally",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/running-your-app-locally",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/running-your-app-locally",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50434
+  },
+  {
+    "title": "Connecting the \"Local Development App\"",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/connecting-the-local-development-app",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/connecting-the-local-development-app",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50435
+  },
+  {
+    "title": "What's next?",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/what-s-next",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/what-s-next",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50436
+  },
+  {
+    "title": "Code Examples",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/code-examples",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/code-examples",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50437
+  },
+  {
+    "title": "App development",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/app-development-1",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/app-development-1",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23010
+  },
+  {
+    "title": "Concepts",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/concepts",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/concepts",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50440
+  },
+  {
+    "title": "Context",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/context",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/context",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50441
+  },
+  {
+    "title": "App settings",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/app-settings",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/app-settings",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50442
+  },
+  {
+    "title": "Secure Request",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/secure-request",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/secure-request",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50443
+  },
+  {
+    "title": "App user state",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/app-user-state",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/app-user-state",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50444
+  },
+  {
+    "title": "Scopes",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/scopes",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/scopes",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 51206
+  },
+  {
+    "title": "Marketplace",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/marketplace",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/marketplace",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23009
+  },
+  {
+    "title": "Connecting the app to the marketplace",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/connecting-the-app-to-the-marketplace",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/connecting-the-app-to-the-marketplace",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50438
+  },
+  {
+    "title": "Deploying, Publishing and Installing",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/getting-started/deploying-publishing-and-installing",
+    "path": "brand-sdk/getting-started",
+    "fullPath": "brand-sdk/getting-started/deploying-publishing-and-installing",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50439
+  },
+  {
+    "title": "AppBridge API Method",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/appbridge-api-method",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/appbridge-api-method",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23005
+  },
+  {
+    "title": "getAssetResourceInformation",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/getassetresourceinformation",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/getassetresourceinformation",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50425
+  },
+  {
+    "title": "getCurrentUser",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/getcurrentuser",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/getcurrentuser",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50426
+  },
+  {
+    "title": "GetAccountId",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/getaccountid",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/getaccountid",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50427
+  },
+  {
+    "title": "createAsset",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/createasset",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/createasset",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50428
+  },
+  {
+    "title": "getSecureRequest",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/getsecurerequest",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/getsecurerequest",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50429
+  },
+  {
+    "title": "executeGraphQl (alpha)",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/executegraphql-alpha",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/executegraphql-alpha",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50430
+  },
+  {
+    "title": "Manifest",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/manifest",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/manifest",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23006
+  },
+  {
+    "title": "Control Visibility",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/control-visibility",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/control-visibility",
+    "type": "page_heading",
+    "parentId": 2580,
+    "id": 50431
+  },
+  {
+    "title": "Glossary",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/glossary",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/glossary",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23007
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2580#/brand-sdk/reference/changelog",
+    "path": "brand-sdk/reference",
+    "fullPath": "brand-sdk/reference/changelog",
+    "type": "page",
+    "parentId": 2580,
+    "id": 23004
+  },
+  {
+    "title": "GraphQL API",
+    "url": "https://developer.frontify.com/document/2570#/apis/graphql-api",
+    "path": "apis",
+    "fullPath": "apis/graphql-api",
+    "type": "internal",
+    "id": 2570
+  },
+  {
+    "title": "Getting Started",
+    "url": "https://developer.frontify.com/document/2570#/apis/introduction/getting-started",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/getting-started",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22926
+  },
+  {
+    "title": "Run Queries programmatically",
+    "url": "https://developer.frontify.com/document/2570#/apis/introduction/run-queries-programmatically",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/run-queries-programmatically",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50280
+  },
+  {
+    "title": "GraphQL API",
+    "url": "https://developer.frontify.com/document/2570#/apis/introduction/graphql-api",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/graphql-api",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22925
+  },
+  {
+    "title": "Glossary",
+    "url": "https://developer.frontify.com/document/2570#/apis/introduction/glossary",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/glossary",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22922
+  },
+  {
+    "title": "GraphQL Terminologies",
+    "url": "https://developer.frontify.com/document/2570#/apis/introduction/graphql-terminologies",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/graphql-terminologies",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50279
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/changelog",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/changelog",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22950
+  },
+  {
+    "title": "Breaking Changes",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/breaking-changes",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/breaking-changes",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50330
+  },
+  {
+    "title": "Uncovered Changes",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/uncovered-changes",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/uncovered-changes",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50331
+  },
+  {
+    "title": "🚨 01/07/2023 Deprecation of LibraryCollection.isPrivate  — Scheduled for removal on 01/01/2024",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/01-07-2023-deprecation-of-librarycollection-isprivate-scheduled-for-removal-on-01-01-2024",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/01-07-2023-deprecation-of-librarycollection-isprivate-scheduled-for-removal-on-01-01-2024",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50332
+  },
+  {
+    "title": "🚨 01/07/2023 Deprecation of MetadataFields — Scheduled for removal on 30/06/2025",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/01-07-2023-deprecation-of-metadatafields-scheduled-for-removal-on-30-06-2025",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/01-07-2023-deprecation-of-metadatafields-scheduled-for-removal-on-30-06-2025",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50333
+  },
+  {
+    "title": "🚨 01/01/2023 Deprecation of SubFolder — Scheduled for removal on 01/07/2023",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/01-01-2023-deprecation-of-subfolder-scheduled-for-removal-on-01-07-2023",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/01-01-2023-deprecation-of-subfolder-scheduled-for-removal-on-01-07-2023",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50334
+  },
+  {
+    "title": "🚨 07/03/2022 Deprecation of Brand > Projects — Scheduled for removal on 01/01/2023",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/07-03-2022-deprecation-of-brand-projects-scheduled-for-removal-on-01-01-2023",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/07-03-2022-deprecation-of-brand-projects-scheduled-for-removal-on-01-01-2023",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50335
+  },
+  {
+    "title": "🚨 30/06/2021 — Scheduled for 01/01/2022",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/30-06-2021-scheduled-for-01-01-2022-1",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/30-06-2021-scheduled-for-01-01-2022-1",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50336
+  },
+  {
+    "title": "27/05/2021 — Released",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/27-05-2021-released",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/27-05-2021-released",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50337
+  },
+  {
+    "title": "⭐️ 22/05/2021 — Released",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/22-05-2021-released",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/22-05-2021-released",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50338
+  },
+  {
+    "title": "? 30/12/2020 — Released",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/30-12-2020-released",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/30-12-2020-released",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50339
+  },
+  {
+    "title": "Migrating MetadataFields",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/migrating-metadatafields",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/migrating-metadatafields",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22951
+  },
+  {
+    "title": "From Metadata Fields to Custom Metadata Properties",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/from-metadata-fields-to-custom-metadata-properties",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/from-metadata-fields-to-custom-metadata-properties",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50340
+  },
+  {
+    "title": "From Metadata Values to CustomMetadata",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/from-metadata-values-to-custommetadata",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/from-metadata-values-to-custommetadata",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50341
+  },
+  {
+    "title": "Mutations",
+    "url": "https://developer.frontify.com/document/2570#/apis/changes/mutations",
+    "path": "apis/changes",
+    "fullPath": "apis/changes/mutations",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50342
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/introduction-p19523",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/introduction-p19523",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22949
+  },
+  {
+    "title": "Authentication vs Authorization",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/authentication-vs-authorization",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/authentication-vs-authorization",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50328
+  },
+  {
+    "title": "User Permissions vs Scopes",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/user-permissions-vs-scopes",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/user-permissions-vs-scopes",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50329
+  },
+  {
+    "title": "Authentication",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/authentication",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/authentication",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22945
+  },
+  {
+    "title": "Developer token vs OAuth2",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/developer-token-vs-oauth2",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/developer-token-vs-oauth2",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50321
+  },
+  {
+    "title": "Personal Developer Token",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/personal-developer-token",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/personal-developer-token",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50322
+  },
+  {
+    "title": "OAuth2.0",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/oauth2-0",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/oauth2-0",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50323
+  },
+  {
+    "title": "User Permissions",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/user-permissions-p14535",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/user-permissions-p14535",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22947
+  },
+  {
+    "title": "Permissions in Frontify",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/permissions-in-frontify",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/permissions-in-frontify",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50324
+  },
+  {
+    "title": "Understanding your permissions",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/understanding-your-permissions",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/understanding-your-permissions",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50325
+  },
+  {
+    "title": "Scopes",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/scopes-p11876",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/scopes-p11876",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22944
+  },
+  {
+    "title": "OAuth2 Client",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/oauth2-client-p11895",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/oauth2-client-p11895",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22946
+  },
+  {
+    "title": "Rate Limiting and Limitations",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/rate-limiting-and-limitations-1",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/rate-limiting-and-limitations-1",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22948
+  },
+  {
+    "title": "What happens if you exceed this limit?",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/what-happens-if-you-exceed-this-limit",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/what-happens-if-you-exceed-this-limit",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50326
+  },
+  {
+    "title": "How to avoid rate limiting errors",
+    "url": "https://developer.frontify.com/document/2570#/apis/access-control/how-to-avoid-rate-limiting-errors",
+    "path": "apis/access-control",
+    "fullPath": "apis/access-control/how-to-avoid-rate-limiting-errors",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50327
+  },
+  {
+    "title": "Endpoint and queries",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/endpoint-and-queries",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/endpoint-and-queries",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22932
+  },
+  {
+    "title": "Request Format",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/request-format",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/request-format",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50291
+  },
+  {
+    "title": "Naming Conventions",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/naming-conventions",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/naming-conventions",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22928
+  },
+  {
+    "title": "Global Object Identification",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/global-object-identification",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/global-object-identification",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50287
+  },
+  {
+    "title": "Error Handling",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/error-handling",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/error-handling",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22929
+  },
+  {
+    "title": "Server Error",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/server-error",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/server-error",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50288
+  },
+  {
+    "title": "Authentication Error",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/authentication-error",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/authentication-error",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50289
+  },
+  {
+    "title": "GraphQL Error",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/graphql-error",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/graphql-error",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50290
+  },
+  {
+    "title": "Data Structure",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/data-structure",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/data-structure",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22927
+  },
+  {
+    "title": "Account",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/account",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/account",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50281
+  },
+  {
+    "title": "User",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/user",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/user",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50282
+  },
+  {
+    "title": "Brand",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/brand",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/brand",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50283
+  },
+  {
+    "title": "Library",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/library",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/library",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50284
+  },
+  {
+    "title": "Workspace (Project)",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/workspace-project",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/workspace-project",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50285
+  },
+  {
+    "title": "Asset",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/asset",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/asset",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50286
+  },
+  {
+    "title": "Beta / Preview Functionality",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/beta-preview-functionality",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/beta-preview-functionality",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22931
+  },
+  {
+    "title": "Pagination",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/pagination",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/pagination",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22930
+  },
+  {
+    "title": "Asset Lifecycle",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/asset-lifecycle",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/asset-lifecycle",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22933
+  },
+  {
+    "title": "Asset Creation & Processing",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/asset-creation-processing",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/asset-creation-processing",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50292
+  },
+  {
+    "title": "Asset Status",
+    "url": "https://developer.frontify.com/document/2570#/apis/details-concepts/asset-status",
+    "path": "apis/details-concepts",
+    "fullPath": "apis/details-concepts/asset-status",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50293
+  },
+  {
+    "title": "GraphQL",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/graphql",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/graphql",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22934
+  },
+  {
+    "title": "GraphQL Resources",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/graphql-resources",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/graphql-resources",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50294
+  },
+  {
+    "title": "Upload File & Create Asset",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/upload-file-create-asset",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/upload-file-create-asset",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22935
+  },
+  {
+    "title": "Allowed file types",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/allowed-file-types",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/allowed-file-types",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50295
+  },
+  {
+    "title": "1. Initialize the Upload",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/1-initialize-the-upload",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/1-initialize-the-upload",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50296
+  },
+  {
+    "title": "2. Upload binary file content",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/2-upload-binary-file-content",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/2-upload-binary-file-content",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50297
+  },
+  {
+    "title": "3. Use the file",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/3-use-the-file",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/3-use-the-file",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50298
+  },
+  {
+    "title": "Search and Filter Asset",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/search-and-filter-asset",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/search-and-filter-asset",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22936
+  },
+  {
+    "title": "Brand Level Search",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/brand-level-search",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/brand-level-search",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50299
+  },
+  {
+    "title": "Workspace/Library Level",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/workspace-library-level",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/workspace-library-level",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50300
+  },
+  {
+    "title": "Asset Workflow",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/asset-workflow",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/asset-workflow",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22937
+  },
+  {
+    "title": "Move Tasks: Enter Rules",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/move-tasks-enter-rules",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/move-tasks-enter-rules",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50301
+  },
+  {
+    "title": "Create a new Task",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/create-a-new-task",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/create-a-new-task",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50302
+  },
+  {
+    "title": "Custom Metadata",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/custom-metadata-1",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/custom-metadata-1",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22938
+  },
+  {
+    "title": "Property Types",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/property-types",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/property-types",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50303
+  },
+  {
+    "title": "Getting available Properties for a Library",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/getting-available-properties-for-a-library",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/getting-available-properties-for-a-library",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50304
+  },
+  {
+    "title": "Query Properties and values for Assets",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/query-properties-and-values-for-assets",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/query-properties-and-values-for-assets",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50305
+  },
+  {
+    "title": "Mutating Custom Metadata Values for Assets",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/mutating-custom-metadata-values-for-assets",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/mutating-custom-metadata-values-for-assets",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50306
+  },
+  {
+    "title": "Digital & Print Templates - External Data Sources",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/digital-print-templates-external-data-sources",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/digital-print-templates-external-data-sources",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22939
+  },
+  {
+    "title": "Obtaining the External Data Source ID",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/obtaining-the-external-data-source-id",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/obtaining-the-external-data-source-id",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50307
+  },
+  {
+    "title": "Uploading a new File",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/uploading-a-new-file",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/uploading-a-new-file",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50308
+  },
+  {
+    "title": "Replacing an existing Data Source",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/replacing-an-existing-data-source",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/replacing-an-existing-data-source",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50309
+  },
+  {
+    "title": "Asset Preview and Download",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/asset-preview-and-download",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/asset-preview-and-download",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22940
+  },
+  {
+    "title": "Preview URL",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/preview-url",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/preview-url",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50310
+  },
+  {
+    "title": "Dynamic Preview URL",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/dynamic-preview-url",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/dynamic-preview-url",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50311
+  },
+  {
+    "title": "Download URL",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/download-url",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/download-url",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50312
+  },
+  {
+    "title": "Template Data Fetching and Exporting",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/template-data-fetching-and-exporting",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/template-data-fetching-and-exporting",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22941
+  },
+  {
+    "title": "List Templates by Brand",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/list-templates-by-brand",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/list-templates-by-brand",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50313
+  },
+  {
+    "title": "Fetching Template details",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/fetching-template-details",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/fetching-template-details",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50314
+  },
+  {
+    "title": "Exporting a creative",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/exporting-a-creative",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/exporting-a-creative",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50315
+  },
+  {
+    "title": "Check job status using a polling query",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/check-job-status-using-a-polling-query",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/check-job-status-using-a-polling-query",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50316
+  },
+  {
+    "title": "Canceling jobs",
+    "url": "https://developer.frontify.com/document/2570#/apis/deep-dive/canceling-jobs",
+    "path": "apis/deep-dive",
+    "fullPath": "apis/deep-dive/canceling-jobs",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 56730
+  },
+  {
+    "title": "Sync Assets to Frontify",
+    "url": "https://developer.frontify.com/document/2570#/apis/use-cases/sync-assets-to-frontify",
+    "path": "apis/use-cases",
+    "fullPath": "apis/use-cases/sync-assets-to-frontify",
+    "type": "page",
+    "parentId": 2570,
+    "id": 22943
+  },
+  {
+    "title": "Overview",
+    "url": "https://developer.frontify.com/document/2570#/apis/use-cases/overview",
+    "path": "apis/use-cases",
+    "fullPath": "apis/use-cases/overview",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50317
+  },
+  {
+    "title": "Create a new Asset using the External ID functionality",
+    "url": "https://developer.frontify.com/document/2570#/apis/use-cases/create-a-new-asset-using-the-external-id-functionality",
+    "path": "apis/use-cases",
+    "fullPath": "apis/use-cases/create-a-new-asset-using-the-external-id-functionality",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50318
+  },
+  {
+    "title": "Identify if a given Asset already exists on Frontify",
+    "url": "https://developer.frontify.com/document/2570#/apis/use-cases/identify-if-a-given-asset-already-exists-on-frontify",
+    "path": "apis/use-cases",
+    "fullPath": "apis/use-cases/identify-if-a-given-asset-already-exists-on-frontify",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50319
+  },
+  {
+    "title": "Determine if an Asset needs to be updated",
+    "url": "https://developer.frontify.com/document/2570#/apis/use-cases/determine-if-an-asset-needs-to-be-updated",
+    "path": "apis/use-cases",
+    "fullPath": "apis/use-cases/determine-if-an-asset-needs-to-be-updated",
+    "type": "page_heading",
+    "parentId": 2570,
+    "id": 50320
+  },
+  {
+    "title": "Webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/webhooks",
+    "path": "apis",
+    "fullPath": "apis/webhooks",
+    "type": "internal",
+    "id": 2571
+  },
+  {
+    "title": "Frontify Webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/frontify-webhooks",
+    "path": "apis/general",
+    "fullPath": "apis/general/frontify-webhooks",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22952
+  },
+  {
+    "title": "Installing Webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/installing-webhooks",
+    "path": "apis/general",
+    "fullPath": "apis/general/installing-webhooks",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22953
+  },
+  {
+    "title": "Using localhost to consume webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/using-localhost-to-consume-webhooks",
+    "path": "apis/general",
+    "fullPath": "apis/general/using-localhost-to-consume-webhooks",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50343
+  },
+  {
+    "title": "Installing a webhook using GraphQL",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/installing-a-webhook-using-graphql",
+    "path": "apis/general",
+    "fullPath": "apis/general/installing-a-webhook-using-graphql",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50344
+  },
+  {
+    "title": "Uninstalling Webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/uninstalling-webhooks",
+    "path": "apis/general",
+    "fullPath": "apis/general/uninstalling-webhooks",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50345
+  },
+  {
+    "title": "Setup your Server",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/setup-your-server",
+    "path": "apis/general",
+    "fullPath": "apis/general/setup-your-server",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22955
+  },
+  {
+    "title": "Security and Best Practices",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/security-and-best-practices",
+    "path": "apis/general",
+    "fullPath": "apis/general/security-and-best-practices",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22954
+  },
+  {
+    "title": "Responding to Webhooks",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/responding-to-webhooks",
+    "path": "apis/general",
+    "fullPath": "apis/general/responding-to-webhooks",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50346
+  },
+  {
+    "title": "Retries on Failure",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/retries-on-failure",
+    "path": "apis/general",
+    "fullPath": "apis/general/retries-on-failure",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50347
+  },
+  {
+    "title": "Disable CSRF Protection",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/disable-csrf-protection",
+    "path": "apis/general",
+    "fullPath": "apis/general/disable-csrf-protection",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50348
+  },
+  {
+    "title": "Verifying Webhook (Security)",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/verifying-webhook-security",
+    "path": "apis/general",
+    "fullPath": "apis/general/verifying-webhook-security",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50349
+  },
+  {
+    "title": "Event Handling",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/event-handling",
+    "path": "apis/general",
+    "fullPath": "apis/general/event-handling",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50350
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/changelog",
+    "path": "apis/general",
+    "fullPath": "apis/general/changelog",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22957
+  },
+  {
+    "title": "How to deal with changes",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/how-to-deal-with-changes",
+    "path": "apis/general",
+    "fullPath": "apis/general/how-to-deal-with-changes",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50351
+  },
+  {
+    "title": "Changes",
+    "url": "https://developer.frontify.com/document/2571#/apis/general/changes",
+    "path": "apis/general",
+    "fullPath": "apis/general/changes",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50352
+  },
+  {
+    "title": "Event Format",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/event-format",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/event-format",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22958
+  },
+  {
+    "title": "Different Event Payloads",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/different-event-payloads",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/different-event-payloads",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50353
+  },
+  {
+    "title": "Asset Created Payload",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/asset-created-payload",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/asset-created-payload",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22959
+  },
+  {
+    "title": "When does this event occur",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/when-does-this-event-occur",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/when-does-this-event-occur",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50354
+  },
+  {
+    "title": "Asset Updated Payload",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/asset-updated-payload",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/asset-updated-payload",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22960
+  },
+  {
+    "title": "When does this event occur",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/when-does-this-event-occur",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/when-does-this-event-occur",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50355
+  },
+  {
+    "title": "Asset Deleted Payload",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/asset-deleted-payload",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/asset-deleted-payload",
+    "type": "page",
+    "parentId": 2571,
+    "id": 22961
+  },
+  {
+    "title": "When does this event occur",
+    "url": "https://developer.frontify.com/document/2571#/apis/events-and-payload/when-does-this-event-occur",
+    "path": "apis/events-and-payload",
+    "fullPath": "apis/events-and-payload/when-does-this-event-occur",
+    "type": "page_heading",
+    "parentId": 2571,
+    "id": 50356
+  },
+  {
+    "title": "Asset Processing API",
+    "url": "https://developer.frontify.com/document/2572#/apis/asset-processing-api",
+    "path": "apis",
+    "fullPath": "apis/asset-processing-api",
+    "type": "internal",
+    "id": 2572
+  },
+  {
+    "title": "Asset Processing",
+    "url": "https://developer.frontify.com/document/2572#/apis/introduction/asset-processing",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/asset-processing",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22963
+  },
+  {
+    "title": "Best Practices and Questions",
+    "url": "https://developer.frontify.com/document/2572#/apis/introduction/best-practices-and-questions",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/best-practices-and-questions",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22964
+  },
+  {
+    "title": "Frequently Asked Questions (FAQ)",
+    "url": "https://developer.frontify.com/document/2572#/apis/introduction/frequently-asked-questions-faq",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/frequently-asked-questions-faq",
+    "type": "page_heading",
+    "parentId": 2572,
+    "id": 50357
+  },
+  {
+    "title": "Architecture & Performance",
+    "url": "https://developer.frontify.com/document/2572#/apis/introduction/architecture-performance",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/architecture-performance",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22966
+  },
+  {
+    "title": "Resizing",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/resizing",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/resizing",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22967
+  },
+  {
+    "title": "Cropping (Focal Point)",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/cropping-focal-point",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/cropping-focal-point",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22968
+  },
+  {
+    "title": "Image Quality",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/image-quality",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/image-quality",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22972
+  },
+  {
+    "title": "Format Transformation",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/format-transformation",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/format-transformation",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22973
+  },
+  {
+    "title": "Page (PDF / Office files)",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/page-pdf-office-files",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/page-pdf-office-files",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22969
+  },
+  {
+    "title": "Video Frame (Videos)",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/video-frame-videos",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/video-frame-videos",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22970
+  },
+  {
+    "title": "Recoloring (SVGs)",
+    "url": "https://developer.frontify.com/document/2572#/apis/operations/recoloring-svgs",
+    "path": "apis/operations",
+    "fullPath": "apis/operations/recoloring-svgs",
+    "type": "page",
+    "parentId": 2572,
+    "id": 22971
+  },
+  {
+    "title": "Media Processing API (beta)",
+    "url": "https://developer.frontify.com/document/2693#/apis/media-processing-api-beta",
+    "path": "apis",
+    "fullPath": "apis/media-processing-api-beta",
+    "type": "internal",
+    "id": 2693
+  },
+  {
+    "title": "Media Processing (BETA)",
+    "url": "https://developer.frontify.com/document/2693#/apis/introduction/media-processing-beta",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/media-processing-beta",
+    "type": "page",
+    "parentId": 2693,
+    "id": 24123
+  },
+  {
+    "title": "Getting started",
+    "url": "https://developer.frontify.com/document/2693#/apis/introduction/getting-started",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/getting-started",
+    "type": "page",
+    "parentId": 2693,
+    "id": 24194
+  },
+  {
+    "title": "Usage",
+    "url": "https://developer.frontify.com/document/2693#/apis/introduction/usage",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/usage",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53713
+  },
+  {
+    "title": "Frequently Asked Questions (FAQ)",
+    "url": "https://developer.frontify.com/document/2693#/apis/introduction/frequently-asked-questions-faq",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/frequently-asked-questions-faq",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53714
+  },
+  {
+    "title": "Architecture & Performance",
+    "url": "https://developer.frontify.com/document/2693#/apis/introduction/architecture-performance",
+    "path": "apis/introduction",
+    "fullPath": "apis/introduction/architecture-performance",
+    "type": "page",
+    "parentId": 2693,
+    "id": 24195
+  },
+  {
+    "title": "API transformations",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/api-transformations",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/api-transformations",
+    "type": "page",
+    "parentId": 2693,
+    "id": 24124
+  },
+  {
+    "title": "Syntax",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/syntax",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/syntax",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53563
+  },
+  {
+    "title": "Fundamentals",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/fundamentals",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/fundamentals",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53711
+  },
+  {
+    "title": "List of transformations",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/list-of-transformations",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/list-of-transformations",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53565
+  },
+  {
+    "title": "API parameters",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/api-parameters",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/api-parameters",
+    "type": "page",
+    "parentId": 2693,
+    "id": 24149
+  },
+  {
+    "title": "anchor",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/anchor",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/anchor",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53587
+  },
+  {
+    "title": "angle",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/angle",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/angle",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53588
+  },
+  {
+    "title": "axis",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/axis",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/axis",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53589
+  },
+  {
+    "title": "boolean",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/boolean",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/boolean",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53590
+  },
+  {
+    "title": "color",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/color",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/color",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53591
+  },
+  {
+    "title": "coordinates",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/coordinates",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/coordinates",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53592
+  },
+  {
+    "title": "crop size",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/crop-size",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/crop-size",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53593
+  },
+  {
+    "title": "length",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/length",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/length",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53594
+  },
+  {
+    "title": "number",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/number",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/number",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53595
+  },
+  {
+    "title": "padding",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/padding",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/padding",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53596
+  },
+  {
+    "title": "ratio",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/ratio",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/ratio",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53597
+  },
+  {
+    "title": "size",
+    "url": "https://developer.frontify.com/document/2693#/apis/reference/size",
+    "path": "apis/reference",
+    "fullPath": "apis/reference/size",
+    "type": "page_heading",
+    "parentId": 2693,
+    "id": 53598
+  },
+  {
+    "title": "GraphQL Explorer",
+    "url": "https://frontify.github.io/public-api-explorer",
+    "path": "apis",
+    "type": "external"
+  },
+  {
+    "title": "GraphQL Reference",
+    "url": "https://frontify.github.io/graphql-reference/",
+    "path": "apis",
+    "type": "external"
+  },
+  {
+    "title": "Finder",
+    "url": "https://developer.frontify.com/document/2573#/widgets/finder",
+    "path": "widgets",
+    "fullPath": "widgets/finder",
+    "type": "internal",
+    "id": 2573
+  },
+  {
+    "title": "Frontify Finder",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/frontify-finder",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/frontify-finder",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22977
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/changelog",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/changelog",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22978
+  },
+  {
+    "title": "How to Deal with Changes",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/how-to-deal-with-changes",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/how-to-deal-with-changes",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50365
+  },
+  {
+    "title": "Release v2.2.0 — Thumbnail URLs added",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-2-0-thumbnail-urls-added",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-2-0-thumbnail-urls-added",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 52883
+  },
+  {
+    "title": "Release v2.1.0 — Dynamic preview URLs added",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-1-0-dynamic-preview-urls-added",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-1-0-dynamic-preview-urls-added",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50366
+  },
+  {
+    "title": "Release v2.1.0 — Dynamic preview URLs added",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-1-0-dynamic-preview-urls-added-1",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-1-0-dynamic-preview-urls-added-1",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 52881
+  },
+  {
+    "title": "Release v2.0.3 — Bugfix: Permanent download URLs",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-0-3-bugfix-permanent-download-urls",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-0-3-bugfix-permanent-download-urls",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50367
+  },
+  {
+    "title": "Release v2.0.2 — Permanent download URLs added",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-0-2-permanent-download-urls-added",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-0-2-permanent-download-urls-added",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50368
+  },
+  {
+    "title": "Release v2.0.1",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-0-1",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-0-1",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50369
+  },
+  {
+    "title": "Release v2.0.0",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/release-v2-0-0",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-0-0",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50370
+  },
+  {
+    "title": "Upgrade Guide",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/upgrade-guide",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/upgrade-guide",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22979
+  },
+  {
+    "title": "v1.x to v2.0",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/v1-x-to-v2-0",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/v1-x-to-v2-0",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50371
+  },
+  {
+    "title": "Best Practices",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/best-practices",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/best-practices",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22981
+  },
+  {
+    "title": "Getting Started",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/getting-started",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/getting-started",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22980
+  },
+  {
+    "title": "Installation",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/installation",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/installation",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50372
+  },
+  {
+    "title": "Usage",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/usage",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/usage",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50373
+  },
+  {
+    "title": "Full usage Example",
+    "url": "https://developer.frontify.com/document/2573#/widgets/general/full-usage-example",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/full-usage-example",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50374
+  },
+  {
+    "title": "Errors & Warnings",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/errors-warnings",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/errors-warnings",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22974
+  },
+  {
+    "title": "OAuth2 Client",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/oauth2-client",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/oauth2-client",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22975
+  },
+  {
+    "title": "Asset",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/asset",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/asset",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22976
+  },
+  {
+    "title": "Distinct Properties per Type",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/distinct-properties-per-type",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/distinct-properties-per-type",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50359
+  },
+  {
+    "title": "File",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/file",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/file",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50360
+  },
+  {
+    "title": "Video",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/video-2",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/video-2",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50361
+  },
+  {
+    "title": "Audio",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/audio",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/audio",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50362
+  },
+  {
+    "title": "Document",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/document",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/document",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50363
+  },
+  {
+    "title": "Image",
+    "url": "https://developer.frontify.com/document/2573#/widgets/details-and-concepts/image",
+    "path": "widgets/details-and-concepts",
+    "fullPath": "widgets/details-and-concepts/image",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50364
+  },
+  {
+    "title": "Frontify Finder v1",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/frontify-finder-v1",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/frontify-finder-v1",
+    "type": "page",
+    "parentId": 2573,
+    "id": 22982
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/introduction",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/introduction",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50375
+  },
+  {
+    "title": "Interaction",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/interaction",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/interaction",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50376
+  },
+  {
+    "title": "Getting started",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/getting-started",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/getting-started",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50377
+  },
+  {
+    "title": "Sources",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/sources",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/sources",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50378
+  },
+  {
+    "title": "Options",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/options",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/options",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50379
+  },
+  {
+    "title": "Assets Data Structure",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/assets-data-structure",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/assets-data-structure",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50380
+  },
+  {
+    "title": "Error/Warning Codes",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/error-warning-codes",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/error-warning-codes",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50381
+  },
+  {
+    "title": "Browser Support",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/browser-support",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/browser-support",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50382
+  },
+  {
+    "title": "Releases",
+    "url": "https://developer.frontify.com/document/2573#/widgets/deprecated-versions/releases",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/releases",
+    "type": "page_heading",
+    "parentId": 2573,
+    "id": 50383
+  },
+  {
+    "title": "Authenticator",
+    "url": "https://developer.frontify.com/document/2574#/widgets/authenticator",
+    "path": "widgets",
+    "fullPath": "widgets/authenticator",
+    "type": "internal",
+    "id": 2574
+  },
+  {
+    "title": "Authenticator",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/authenticator",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/authenticator",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22984
+  },
+  {
+    "title": "Changelog",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/changelog",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/changelog",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22986
+  },
+  {
+    "title": "How to deal with changes",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/how-to-deal-with-changes",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/how-to-deal-with-changes",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50395
+  },
+  {
+    "title": "Scheduled Changes",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/scheduled-changes",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/scheduled-changes",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50396
+  },
+  {
+    "title": "Release V2.0.0",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/release-v2-0-0",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/release-v2-0-0",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50397
+  },
+  {
+    "title": "Best Practices",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/best-practices",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/best-practices",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22985
+  },
+  {
+    "title": "Getting Started",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/getting-started",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/getting-started",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22987
+  },
+  {
+    "title": "Installation",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/installation",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/installation",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50398
+  },
+  {
+    "title": "Usage",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/usage",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/usage",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50399
+  },
+  {
+    "title": "Call our API using the Token",
+    "url": "https://developer.frontify.com/document/2574#/widgets/general/call-our-api-using-the-token",
+    "path": "widgets/general",
+    "fullPath": "widgets/general/call-our-api-using-the-token",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50400
+  },
+  {
+    "title": "Token",
+    "url": "https://developer.frontify.com/document/2574#/widgets/details-concepts/token",
+    "path": "widgets/details-concepts",
+    "fullPath": "widgets/details-concepts/token",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22990
+  },
+  {
+    "title": "OAuth2 Client",
+    "url": "https://developer.frontify.com/document/2574#/widgets/details-concepts/oauth2-client",
+    "path": "widgets/details-concepts",
+    "fullPath": "widgets/details-concepts/oauth2-client",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22991
+  },
+  {
+    "title": "Frontify Authenticator v1",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/frontify-authenticator-v1",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/frontify-authenticator-v1",
+    "type": "page",
+    "parentId": 2574,
+    "id": 22983
+  },
+  {
+    "title": "Introduction",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/introduction",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/introduction",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50384
+  },
+  {
+    "title": "Requirements",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/requirements",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/requirements",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50385
+  },
+  {
+    "title": "Namespace",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/namespace",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/namespace",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50386
+  },
+  {
+    "title": "Interaction",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/interaction",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/interaction",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50387
+  },
+  {
+    "title": "Getting started",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/getting-started",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/getting-started",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50388
+  },
+  {
+    "title": "Sources",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/sources",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/sources",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50389
+  },
+  {
+    "title": "Options",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/options",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/options",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50390
+  },
+  {
+    "title": "Reset",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/reset",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/reset",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50391
+  },
+  {
+    "title": "Error/Warning Codes",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/error-warning-codes",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/error-warning-codes",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50392
+  },
+  {
+    "title": "Browser support",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/browser-support",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/browser-support",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50393
+  },
+  {
+    "title": "Releases",
+    "url": "https://developer.frontify.com/document/2574#/widgets/deprecated-versions/releases",
+    "path": "widgets/deprecated-versions",
+    "fullPath": "widgets/deprecated-versions/releases",
+    "type": "page_heading",
+    "parentId": 2574,
+    "id": 50394
+  },
+  {
+    "title": "Bug report",
+    "url": "https://forms.clickup.com/2523021/f/2czwd-124932/2OEP5X5S3O8SDM2MOO",
+    "path": "contact-us",
+    "type": "external"
+  },
+  {
+    "title": "System status",
+    "url": "https://status.frontify.com/",
+    "path": "contact-us",
+    "type": "external"
+  },
+  {
+    "title": "Becoming a partner",
+    "url": "https://www.frontify.com/en/partnership/",
+    "path": "contact-us",
+    "type": "external"
+  }
+]
