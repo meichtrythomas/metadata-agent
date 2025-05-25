@@ -7,10 +7,9 @@ import {
     HelperText,
     Box,
     Heading,
-    Flex,
-    Checkbox,
-    Table,
+    Flex
 } from '@frontify/fondue';
+import { Checkbox, Table } from '@frontify/fondue-components';
 
 // Add type for context
 type AppContext = {
