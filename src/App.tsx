@@ -3,17 +3,18 @@ import { useState } from "react";
 import {
     Button,
     TextInput,
-    Stack,
     FormControl,
     HelperText,
     Box,
     Heading,
+    Flex,
 } from '@frontify/fondue';
+import { Checkbox, Table } from '@frontify/fondue-components';
 
 // Add type for context
 type AppContext = {
     appBridge: {
-        api: (params: { name: string; payload: any }) => Promise<any>;
+        api: (params: { name: string; payload: unknown }) => Promise<unknown>;
     };
     parentId?: string;
 };
@@ -83,11 +84,9 @@ export const App = () => {
     const [error, setError] = useState<string | null>(null);
     const [responseData, setResponseData] = useState<MetadataField[] | null>(null);
 
-    // Add new state for loading
+    // Add new state for loading and success state
     const [isLoading, setIsLoading] = useState(false);
-
-    // Add a new state to track the current view
-    const [currentView, setCurrentView] = useState<'form' | 'results' | 'success'>('form');
+    const [isSuccess, setIsSuccess] = useState(false);
 
     // Handle user input changes
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement> | { target: { name: string; value: string } }) => {
@@ -99,7 +98,7 @@ export const App = () => {
         setError(null);
         setResponseData(null);
         setIsLoading(true);
-        setCurrentView('results');
+        setIsSuccess(false);
 
         if (!openAiApiKey) {
             setError("OpenAI key not set in App Settings.");
@@ -287,7 +286,7 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                     }
                 }
 
-                setCurrentView('success');
+                setIsSuccess(true);
             } catch (err) {
                 console.error('Creation error:', err);
                 setCreationError(err instanceof Error ? err.message : "Failed to create metadata fields");
@@ -298,104 +297,86 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
 
         return (
             <div className="mt-8">
-                <div className="overflow-x-auto">
-                    <table className="min-w-full divide-y divide-gray-200">
-                        <thead className="bg-gray-50">
-                            <tr>
-                                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                    <div className="flex items-center">
-                                        <input
-                                            type="checkbox"
-                                            checked={Object.values(selectedFields).every(value => value)}
-                                            onChange={(e) => {
-                                                const newValue = e.target.checked;
-                                                const updatedFields = Object.keys(selectedFields).reduce((acc, key) => ({
-                                                    ...acc,
-                                                    [key]: newValue
-                                                }), {});
-                                                setSelectedFields(updatedFields);
-                                            }}
-                                            className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded mr-2"
-                                        />
-                                        Include
-                                    </div>
-                                </th>
-                                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                    Custom Metadata Field Name
-                                </th>
-                                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                    Field Type
-                                </th>
-                                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                    Options
-                                </th>
-                                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                                    <div className="flex items-center">
-                                        <input
-                                            type="checkbox"
-                                            checked={Object.values(requiredFields).every(value => value)}
-                                            onChange={(e) => {
-                                                const newValue = e.target.checked;
-                                                const updatedFields = Object.keys(requiredFields).reduce((acc, key) => ({
-                                                    ...acc,
-                                                    [key]: newValue
-                                                }), {});
-                                                setRequiredFields(updatedFields);
-                                            }}
-                                            className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded mr-2"
-                                        />
-                                        Required
-                                    </div>
-                                </th>
-                            </tr>
-                        </thead>
-                        <tbody className="bg-white divide-y divide-gray-200">
-                            {data.map((field, index) => (
-                                <tr key={index}>
-                                    <td className="px-6 py-4 whitespace-nowrap">
-                                        <input
-                                            type="checkbox"
-                                            checked={selectedFields[field.fieldName]}
-                                            onChange={(e) => setSelectedFields({
+                <Table.Root aria-label="Metadata Suggestions">
+                    <Table.Header>
+                        <Table.Row>
+                            <Table.HeaderCell>
+                                <Checkbox
+                                    value={Object.values(selectedFields).every((v) => v)}
+                                    onChange={(e) => {
+                                        const newValue = (e.target as HTMLInputElement).checked;
+                                        const updated = Object.keys(selectedFields).reduce(
+                                            (acc, key) => ({ ...acc, [key]: newValue }),
+                                            {},
+                                        );
+                                        setSelectedFields(updated);
+                                    }}
+                                    aria-label="Include field"
+                                />
+                            </Table.HeaderCell>
+                            <Table.HeaderCell>Custom Metadata Field Name</Table.HeaderCell>
+                            <Table.HeaderCell>Field Type</Table.HeaderCell>
+                            <Table.HeaderCell>Options</Table.HeaderCell>
+                            <Table.HeaderCell>
+                                <Checkbox
+                                    value={Object.values(requiredFields).every((v) => v)}
+                                    onChange={(e) => {
+                                        const newValue = (e.target as HTMLInputElement).checked;
+                                        const updated = Object.keys(requiredFields).reduce(
+                                            (acc, key) => ({ ...acc, [key]: newValue }),
+                                            {},
+                                        );
+                                        setRequiredFields(updated);
+                                    }}
+                                    aria-label="Required field"
+                                />
+                            </Table.HeaderCell>
+                        </Table.Row>
+                    </Table.Header>
+                    <Table.Body>
+                        {data.map((field, index) => (
+                            <Table.Row key={index}>
+                                <Table.RowCell>
+                                    <Checkbox
+                                        value={selectedFields[field.fieldName]}
+                                        onChange={(e) =>
+                                            setSelectedFields({
                                                 ...selectedFields,
-                                                [field.fieldName]: e.target.checked
-                                            })}
-                                            className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
-                                        />
-                                    </td>
-                                    <td className="px-6 py-4 whitespace-nowrap">
-                                        {field.fieldName}
-                                    </td>
-                                    <td className="px-6 py-4 whitespace-nowrap">
-                                        {field.fieldType}
-                                    </td>
-                                    <td className="px-6 py-4">
-                                        {field.options ? (
-                                            <ul className="list-disc list-inside">
-                                                {field.options.map((option: string, idx: number) => (
-                                                    <li key={idx}>{option}</li>
-                                                ))}
-                                            </ul>
-                                        ) : (
-                                            "-"
-                                        )}
-                                    </td>
-                                    <td className="px-6 py-4 whitespace-nowrap">
-                                        <input
-                                            type="checkbox"
-                                            checked={requiredFields[field.fieldName]}
-                                            onChange={(e) => setRequiredFields({
+                                                [field.fieldName]: (e.target as HTMLInputElement).checked,
+                                            })
+                                        }
+                                        aria-label="Include field"
+                                    />
+                                </Table.RowCell>
+                                <Table.RowCell>{field.fieldName}</Table.RowCell>
+                                <Table.RowCell>{field.fieldType}</Table.RowCell>
+                                <Table.RowCell>
+                                    {field.options ? (
+                                        <ul className="list-disc list-inside">
+                                            {field.options.map((option: string, idx: number) => (
+                                                <li key={idx}>{option}</li>
+                                            ))}
+                                        </ul>
+                                    ) : (
+                                        '-'
+                                    )}
+                                </Table.RowCell>
+                                <Table.RowCell>
+                                    <Checkbox
+                                        value={requiredFields[field.fieldName]}
+                                        onChange={(e) =>
+                                            setRequiredFields({
                                                 ...requiredFields,
-                                                [field.fieldName]: e.target.checked
-                                            })}
-                                            className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
-                                        />
-                                    </td>
-                                </tr>
-                            ))}
-                        </tbody>
-                    </table>
-                </div>
+                                                [field.fieldName]: (e.target as HTMLInputElement).checked,
+                                            })
+                                        }
+                                        aria-label="Required"
+                                    />
+                                </Table.RowCell>
+                            </Table.Row>
+                        ))}
+                    </Table.Body>
+                </Table.Root>
 
                 {/* Add creation button */}
                 <div className="mt-6">
@@ -404,10 +385,10 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                             <strong>Error:</strong> {creationError}
                         </div>
                     )}
-                    <button
-                        className="mt-6 w-full bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 disabled:bg-gray-400 disabled:cursor-not-allowed"
+                    <Button
                         onClick={createMetadataFields}
                         disabled={isCreating}
+                        className="mt-6 w-full"
                     >
                         {isCreating ? (
                             <div className="flex items-center justify-center">
@@ -417,7 +398,7 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                         ) : (
                             'Create metadata fields in library'
                         )}
-                    </button>
+                    </Button>
                 </div>
             </div>
         );
@@ -435,15 +416,15 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
             </Box>
             {/* Scrollable content section */}
             <Box className="flex-1 bg-mauve-50">
-                <Stack padding={24}>
-                    {currentView === 'form' ? (
-                        <Box style={{ maxWidth: '32rem', margin: '0 auto', width: '100%' }}>
-                            {/* Settings Validation */}
-                            {(!settings.openaiApiKey || settings.openaiApiKey === 'Enter your OpenAI Key to enable metadata generation') && (
-                                <Box className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4">
-                                    OpenAI API Key is not set. Please configure it in the app settings.
-                                </Box>
-                            )}
+                <Flex gap="2rem" alignItems="flex-start" padding={24}>
+                    {/* Settings column */}
+                    <Box style={{ maxWidth: '32rem', width: '100%' }}>
+                        {/* Settings Validation */}
+                        {(!settings.openaiApiKey || settings.openaiApiKey === 'Enter your OpenAI Key to enable metadata generation') && (
+                            <Box className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4">
+                                OpenAI API Key is not set. Please configure it in the app settings.
+                            </Box>
+                        )}
                             {!context.parentId && (
                                 <Box className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4">
                                     Could not determine the library ID. Please make sure you're running this app from within a library.
@@ -542,66 +523,42 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                                 </Button>
                             </div>
 
-                            {/* Error Section */}
-                            {error && currentView === 'form' && (
-                                <Box className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4">
-                                    {error}
-                                </Box>
-                            )}
                         </Box>
-                    ) : currentView === 'results' ? (
-                        <div className="max-w-4xl mx-auto">
-                            {/* Back Button */}
-                            <button
-                                onClick={() => {
-                                    setCurrentView('form');
-                                    setResponseData(null);
-                                    setError(null);
-                                }}
-                                className="mb-4 px-4 py-2 text-blue-500 hover:text-blue-600 flex items-center"
-                            >
-                                <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                                </svg>
-                                Back to Form
-                            </button>
-
-                            <div className="bg-white shadow-lg rounded-lg p-8">
-                                {isLoading ? (
-                                    <div className="flex flex-col items-center justify-center py-12">
-                                        <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-blue-500"></div>
-                                        <p className="mt-4 text-gray-600 text-lg">Generating metadata fields...</p>
-                                    </div>
-                                ) : error ? (
-                                    <div className="p-3 bg-red-100 border-l-4 border-red-500 text-red-700 rounded">
-                                        <strong>Error:</strong> {error}
-                                    </div>
-                                ) : responseData ? (
-                                    <div>
-                                        <h2 className="text-2xl font-bold mb-6">Recommended Metadata Fields</h2>
-                                        <ResultsTable data={responseData} />
-                                    </div>
-                                ) : null}
-                            </div>
-                        </div>
-                    ) : (
-                        <div className="max-w-4xl mx-auto">
-                            <div className="bg-white shadow-lg rounded-lg p-8 text-center">
-                                <div className="mb-6">
-                                    <div className="mx-auto w-16 h-16 bg-green-100 rounded-full flex items-center justify-center">
-                                        <svg className="w-8 h-8 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                                        </svg>
-                                    </div>
+                    {/* Results column */}
+                    <Box className="flex-1">
+                        <Box className="bg-white shadow-lg rounded-lg p-8">
+                            {isLoading ? (
+                                <div className="flex flex-col items-center justify-center py-12">
+                                    <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-blue-500"></div>
+                                    <p className="mt-4 text-gray-600 text-lg">Generating metadata fields...</p>
                                 </div>
-                                <h2 className="text-2xl font-bold mb-4">Success!</h2>
-                                <p className="text-gray-600">
-                                    Your metadata structure has been successfully implemented in your Frontify library. You can now start using your new metadata fields in your library.
-                                </p>
-                            </div>
-                        </div>
-                    )}
-                </Stack>
+                            ) : isSuccess ? (
+                                <div className="text-center">
+                                    <div className="mb-6">
+                                        <div className="mx-auto w-16 h-16 bg-green-100 rounded-full flex items-center justify-center">
+                                            <svg className="w-8 h-8 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <h2 className="text-2xl font-bold mb-4">Success!</h2>
+                                    <p className="text-gray-600">
+                                        Your metadata structure has been successfully implemented in your Frontify library. You can now start using your new metadata fields in your library.
+                                    </p>
+                                </div>
+                            ) : error ? (
+                                <div className="p-3 bg-red-100 border-l-4 border-red-500 text-red-700 rounded">
+                                    <strong>Error:</strong> {error}
+                                </div>
+                            ) : responseData ? (
+                                <div>
+                                    <h2 className="text-2xl font-bold mb-6">Recommended Metadata Fields</h2>
+                                    <ResultsTable data={responseData} />
+                                </div>
+                            ) : null}
+                        </Box>
+                    </Box>
+                </Flex>
             </Box>
         </div>
     );
