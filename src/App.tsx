@@ -3,7 +3,6 @@ import { useState } from "react";
 import {
     Button,
     TextInput,
-    Stack,
     FormControl,
     HelperText,
     Box,
@@ -16,7 +15,7 @@ import {
 // Add type for context
 type AppContext = {
     appBridge: {
-        api: (params: { name: string; payload: any }) => Promise<any>;
+        api: (params: { name: string; payload: unknown }) => Promise<unknown>;
     };
     parentId?: string;
 };
