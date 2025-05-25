@@ -7,7 +7,9 @@ import {
     HelperText,
     Box,
     Heading,
-    Flex
+    Flex,
+    ButtonType,
+    FlexAlignItems,
 } from '@frontify/fondue';
 import { Checkbox, Table } from '@frontify/fondue-components';
 
@@ -61,6 +63,12 @@ interface SelectedMetadataFields {
 
 interface RequiredMetadataFields {
     [key: string]: boolean;
+}
+
+// Add this interface for the GraphQL response
+interface GraphQLResponse {
+    errors?: Array<{ message: string }>;
+    data?: any;
 }
 
 export const App = () => {
@@ -279,7 +287,7 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                             query: CREATE_METADATA_PROPERTY, 
                             variables 
                         },
-                    });
+                    }) as GraphQLResponse;
 
                     if (response.errors) {
                         throw new Error(`Failed to create field ${field.fieldName}: ${response.errors[0].message}`);
@@ -388,7 +396,6 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                     <Button
                         onClick={createMetadataFields}
                         disabled={isCreating}
-                        className="mt-6 w-full"
                     >
                         {isCreating ? (
                             <div className="flex items-center justify-center">
@@ -410,15 +417,14 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
             <Box className="sticky top-0 z-50 bg-white border-b">
                     <div className="text-center">
                         <Heading size="large" weight="strong">
-                            Hi this is me
+                            Metadata Generator
                         </Heading>
                     </div>
             </Box>
             {/* Scrollable content section */}
             <Box className="flex-1 bg-mauve-50">
-                <Flex gap="2rem" alignItems="flex-start" padding={24}>
-                    {/* Settings column */}
-                    <Box style={{ maxWidth: '32rem', width: '100%' }}>
+                <Flex direction="row" padding={24}>
+                    <div style={{ marginRight: '16px', maxWidth: '32rem', width: '100%' }}>
                         {/* Settings Validation */}
                         {(!settings.openaiApiKey || settings.openaiApiKey === 'Enter your OpenAI Key to enable metadata generation') && (
                             <Box className="bg-red-100 border-l-4 border-red-500 text-red-700 p-4">
@@ -523,7 +529,7 @@ Provide an array of objects for the custom metadata fields. Return ONLY the JSON
                                 </Button>
                             </div>
 
-                        </Box>
+                        </div>
                     {/* Results column */}
                     <Box className="flex-1">
                         <Box className="bg-white shadow-lg rounded-lg p-8">
