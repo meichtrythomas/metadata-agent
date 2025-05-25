@@ -10,7 +10,7 @@ import {
     Flex,
     Checkbox,
     Table,
-} from '@frontify/fondue-components';
+} from '@frontify/fondue';
 
 // Add type for context
 type AppContext = {
