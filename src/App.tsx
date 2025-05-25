@@ -7,7 +7,7 @@ import {
     HelperText,
     Box,
     Heading,
-    Flex,
+    Flex
 } from '@frontify/fondue';
 import { Checkbox, Table } from '@frontify/fondue-components';
 
